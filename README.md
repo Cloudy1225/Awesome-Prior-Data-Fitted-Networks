@@ -29,7 +29,7 @@ This work established PFNs as a new family of **foundation models for structured
 ## Highlights
 
 | Venue     | Title                                                        | Code                                        |
-| --------- | ------------------------------------------------------------ | ------------------------------------------- |
+| :-------- | :----------------------------------------------------------- | :------------------------------------------ |
 | ICLR 2022 | [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/abs/2207.01848) | [Code](https://github.com/PriorLabs/TabPFN) |
 | Nature             | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 
@@ -40,7 +40,7 @@ This work established PFNs as a new family of **foundation models for structured
 *Foundations and theoretical insights into PFNs, amortized inference, and Bayesian learning.*
 
 | Venue        | Title                                                        | Code                                                         |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :----------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | ICLR 2022    | [Transformers Can Do Bayesian Inference](https://arxiv.org/abs/2112.10510) | [Code](https://github.com/automl/TransformersCanDoBayesianInference) |
 | ICML 2023    | [Statistical Foundations of Prior-Data Fitted Networks](https://arxiv.org/abs/2305.11097) | [Code](https://gist.github.com/tnagler/62f6ce1f996333c799c81f1aef147e72) |
 | NeurIPS 2023 | [Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection](https://arxiv.org/abs/2306.04637) | [Code](https://github.com/allenbai01/transformers-as-statisticians) |
@@ -52,7 +52,7 @@ This work established PFNs as a new family of **foundation models for structured
 ## Papers
 
 | Venue                   | Title                                                        | Code                                                         |
-| ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :---------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | UnderReview @ ICLR 2026 | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://openreview.net/forum?id=z7ilspv4uH) | —                                                            |
 | UnderReview @ ICLR 2026 | [SR-PFN: Yet Another Sequential Recommendation Paradigm](https://openreview.net/forum?id=xffb9X08Fv) | —                                                            |
 | UnderReview @ ICLR 2026 | [Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://openreview.net/forum?id=90HpWIBBwE) | —                                                            |
@@ -83,7 +83,7 @@ This work established PFNs as a new family of **foundation models for structured
 | RML @ NeurIPS 2025      | [Robust Multi-task Modeling for Bayesian Optimization via In-Context Learning](https://openreview.net/forum?id=iwqJLEPgvF) | —                                                            |
 | NeurIPS 2025            | [Mitra: Mixed Synthetic Priors for Enhancing Tabular Foundation Models](https://www.amazon.science/blog/mitra-mixed-synthetic-priors-for-enhancing-tabular-foundation-models) | [Code](https://huggingface.co/autogluon/mitra-classifier)    |
 | NeurIPS 2025            | [Effortless, Simulation-Efficient Bayesian Inference using Tabular Foundation Models](https://arxiv.org/abs/2504.17660) | [Code](https://github.com/mackelab/npe-pfn)                  |
-| NeurIPS 2025            | [Do-PFN: In-context Learning for Causal Effect Estimationh](ttps://arxiv.org/abs/2506.06039) | [Code](https://github.com/jr2021/Do-PFN)                     |
+| NeurIPS 2025            | [Do-PFN: In-context Learning for Causal Effect Estimation](https://arxiv.org/abs/2506.06039) | [Code](https://github.com/jr2021/Do-PFN)                     |
 | NeurIPS 2025            | [ConTextTab: A Semantics-Aware Tabular In-Context Learner](https://arxiv.org/abs/2506.10707) | [Code](https://github.com/SAP-samples/contexttab)            |
 | NeurIPS 2025            | [ZEUS: Zero-shot Embeddings for Unsupervised Separation of Tabular Data](https://arxiv.org/abs/2505.10704) | [Code](https://github.com/gmum/zeus)                         |
 | NeurIPS 2025            | [TabDPT: An Open Tabular Foundation Model](https://arxiv.org/abs/2410.18164) | [Code](https://github.com/layer6ai-labs/TabDPT-inference)    |
