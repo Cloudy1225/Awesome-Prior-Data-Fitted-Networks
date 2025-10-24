@@ -30,7 +30,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue     | Title                                                        | Code                                        |
 | :-------- | :----------------------------------------------------------- | :------------------------------------------ |
-| ICLR 2022 | [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/abs/2207.01848) | [Code](https://github.com/PriorLabs/TabPFN) |
+| ICLR 2023 | [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/abs/2207.01848) | [Code](https://github.com/PriorLabs/TabPFN) |
 | Nature             | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 
 
