@@ -53,6 +53,10 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                   | Title                                                        | Code                                                         |
 | :---------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ICLR 2026               | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914) | [Code](https://github.com/yccm/CausalFM)                     |
+| ICLR 2026               | [GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models](https://openreview.net/forum?id=9iTdKS4SRQ) | [Code](https://github.com/deepbiolab/gitbo)                  |
+| ICLR 2026               | [Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://openreview.net/forum?id=FmxRzlu0rT) | [Code](https://sites.google.com/view/nodepfn)                |
+| ICLR 2026               | [Using maximal information auxiliary variables to improve synthetic data generation based on TabPFN foundation models](https://openreview.net/forum?id=6PkiUAcTWF) | —                                                            |
 | 20251106                | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2025              | [Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning](https://arxiv.org/abs/2511.02818) | [Code](https://github.com/Lexsi-Labs/Orion-MSP)              |
 | UnderReview @ ICLR 2026 | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://openreview.net/forum?id=z7ilspv4uH) | —                                                            |
@@ -64,8 +68,6 @@ This work established PFNs as a new family of **foundation models for structured
 | UnderReview @ ICLR 2026 | [Large-Scale Pretraining Offers Modest Benefits for Tabular Transfer Learning](https://openreview.net/forum?id=G5zJaSxMGN) | —                                                            |
 | UnderReview @ ICLR 2026 | [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](https://openreview.net/forum?id=pSyuFl8mau) | —                                                            |
 | UnderReview @ ICLR 2026 | [RaBEL: Scale-Aware Radial-Basis Embeddings for Tabular Foundation Models](https://openreview.net/forum?id=odoTDh3QUk) | —                                                            |
-| UnderReview @ ICLR 2026 | [Using maximal information auxiliary variables to improve synthetic data generation based on TabPFN foundation models](https://openreview.net/forum?id=6PkiUAcTWF) | —                                                            |
-| arXiv 2025              | [GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models](https://openreview.net/forum?id=9iTdKS4SRQ) | [Code](https://github.com/deepbiolab/gitbo)                  |
 | arXiv 2025              | [TabPFN: One Model to Rule Them All?](https://arxiv.org/abs/2505.20003) | [Code](https://github.com/qinglong-tian/tabpfn_study)        |
 | arXiv 2025              | [TabImpute: Accurate and Fast Zero-Shot Missing-Data Imputation with a Pre-Trained Transformer](https://arxiv.org/abs/2510.02625) | [Code](https://github.com/jacobf18/tabular)                  |
 | arXiv 2025              | [Decoupled-Value Attention for Prior-Data Fitted Networks: GP Inference for Physical Equations](https://arxiv.org/abs/2509.20950) | [Code](https://github.com/PSquare-Lab/DVA-PFN)               |
@@ -78,7 +80,6 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2025              | [Clustering by Attention: Leveraging Prior Fitted Transformers for Data Partitioning](https://arxiv.org/abs/2507.20369) | —                                                            |
 | arXiv 2025              | [On Finetuning Tabular Foundation Models](https://arxiv.org/abs/2506.08982) | [Code](https://github.com/yandex-research/tabpfn-finetuning) |
 | arXiv 2025              | [TabPFN-Wide: Continued Pre-Training for Extreme Feature Counts](https://arxiv.org/abs/2510.06162) | [Code](https://github.com/pfeiferAI/TabPFN-Wide)             |
-| arXiv 2025              | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914) | [Code](https://github.com/yccm/CausalFM)                     |
 | arXiv 2025              | [Chunked TabPFN: Exact Training-Free In-Context Learning for Long-Context Tabular Data](https://arxiv.org/abs/2509.00326) | [Code](https://github.com/mrsergazinov/chunk_tabpfn)         |
 | arXiv 2025              | [From Tables to Time: How TabPFN-v2 Outperforms Specialized Time Series Forecasting Models](https://arxiv.org/abs/2501.02945) | [Code](https://github.com/PriorLabs/tabpfn-time-series)      |
 | arXiv 2025              | [Realistic Evaluation of TabPFN v2 in Open Environments](https://arxiv.org/abs/2505.16226) | [Code](https://anonymous.4open.science/r/tabpfn-ood-4E65)    |
