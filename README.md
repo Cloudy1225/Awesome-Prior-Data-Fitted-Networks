@@ -53,6 +53,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                   | Title                                                        | Code                                                         |
 | :---------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| arXiv 2026              | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)                   |
 | arXiv 2026              | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel)                                                     |
 | ICLR 2026               | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914) | [Code](https://github.com/yccm/CausalFM)                     |
 | ICLR 2026               | [GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models](https://openreview.net/forum?id=9iTdKS4SRQ) | [Code](https://github.com/deepbiolab/gitbo)                  |
