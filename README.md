@@ -61,6 +61,7 @@ This work established PFNs as a new family of **foundation models for structured
 | ICLR 2026               | [GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models](https://openreview.net/forum?id=9iTdKS4SRQ) | [Code](https://github.com/deepbiolab/gitbo)                  |
 | ICLR 2026               | [Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://openreview.net/forum?id=FmxRzlu0rT) | [Code](https://sites.google.com/view/nodepfn)                |
 | ICLR 2026               | [Using maximal information auxiliary variables to improve synthetic data generation based on TabPFN foundation models](https://openreview.net/forum?id=6PkiUAcTWF) | —                                                            |
+| ICLR 2026               | [Efficient Autoregressive Inference for Transformer Probabilistic Models](https://arxiv.org/abs/2510.09477) | [Code](https://github.com/acerbilab/transformer-ar-buffer)   |
 | arXiv 2025              | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2025              | [Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning](https://arxiv.org/abs/2511.02818) | [Code](https://github.com/Lexsi-Labs/Orion-MSP)              |
 | OpenReview              | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://openreview.net/forum?id=z7ilspv4uH) | —                                                            |
@@ -75,7 +76,6 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2025              | [TabPFN: One Model to Rule Them All?](https://arxiv.org/abs/2505.20003) | [Code](https://github.com/qinglong-tian/tabpfn_study)        |
 | arXiv 2025              | [TabImpute: Accurate and Fast Zero-Shot Missing-Data Imputation with a Pre-Trained Transformer](https://arxiv.org/abs/2510.02625) | [Code](https://github.com/jacobf18/tabular)                  |
 | arXiv 2025              | [Decoupled-Value Attention for Prior-Data Fitted Networks: GP Inference for Physical Equations](https://arxiv.org/abs/2509.20950) | [Code](https://github.com/PSquare-Lab/DVA-PFN)               |
-| arXiv 2025              | [Efficient Autoregressive Inference for Transformer Probabilistic Models](https://arxiv.org/abs/2510.09477) | [Code](https://github.com/acerbilab/transformer-ar-buffer)   |
 | arXiv 2025              | [GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489) | [Code](https://github.com/yandex-research/graphpfn)          |
 | arXiv 2025              | [Turning Tabular Foundation Models into Graph Foundation Models](https://arxiv.org/abs/2508.20906) | [Code](https://github.com/yandex-research/G2T-FM)            |
 | arXiv 2025              | [Bringing Graphs to the Table: Zero-shot Node Classification via Tabular Foundation Models](https://arxiv.org/abs/2509.07143) | [Code](https://github.com/ahayler/tag)                       |
