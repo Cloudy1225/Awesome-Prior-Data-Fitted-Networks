@@ -53,15 +53,18 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                   | Title                                                        | Code                                                         |
 | :---------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| WWW 2026                | [Tabular Foundation Models are Strong Graph Anomaly Detectors](https://arxiv.org/abs/2601.17301) | [Code](https://github.com/Cloudy1225/TFM4GAD)         |
-| arXiv 2026              | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)            |
-| arXiv 2026              | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel)       |
-| arXiv 2026              | [TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models](https://arxiv.org/abs/2602.08592) | —                                                     |
-| ICLR 2026               | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914) | [Code](https://github.com/yccm/CausalFM)                     |
-| ICLR 2026               | [GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models](https://openreview.net/forum?id=9iTdKS4SRQ) | [Code](https://github.com/deepbiolab/gitbo)                  |
-| ICLR 2026               | [Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://openreview.net/forum?id=FmxRzlu0rT) | [Code](https://sites.google.com/view/nodepfn)                |
-| ICLR 2026               | [Using maximal information auxiliary variables to improve synthetic data generation based on TabPFN foundation models](https://openreview.net/forum?id=6PkiUAcTWF) | —                                                            |
-| ICLR 2026               | [Efficient Autoregressive Inference for Transformer Probabilistic Models](https://arxiv.org/abs/2510.09477) | [Code](https://github.com/acerbilab/transformer-ar-buffer)   |
+| arXiv 2026             | [FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data](https://arxiv.org/abs/2603.16513) | —                                                            |
+| arXiv 2026             | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)                   |
+| arXiv 2026             | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel)              |
+| arXiv 2026             | [TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models](https://arxiv.org/abs/2602.08592) | —                                                            |
+| ICLR 2026              | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914) | [Code](https://github.com/yccm/CausalFM)                     |
+| ICLR 2026              | [GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models](https://openreview.net/forum?id=9iTdKS4SRQ) | [Code](https://github.com/deepbiolab/gitbo)                  |
+| ICLR 2026              | [Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://openreview.net/forum?id=FmxRzlu0rT) | [Code](https://sites.google.com/view/nodepfn)                |
+| ICLR 2026              | [Using maximal information auxiliary variables to improve synthetic data generation based on TabPFN foundation models](https://openreview.net/forum?id=6PkiUAcTWF) | —                                                            |
+| ICLR 2026              | [Efficient Autoregressive Inference for Transformer Probabilistic Models](https://arxiv.org/abs/2510.09477) | [Code](https://github.com/acerbilab/transformer-ar-buffer)   |
+| WWW 2026               | [Tabular Foundation Models are Strong Graph Anomaly Detectors](https://arxiv.org/abs/2601.17301) | [Code](https://github.com/Cloudy1225/TFM4GAD)                |
+| WWW 2026               | [Exploring Fine-Tuning for Tabular Foundation Models](https://arxiv.org/abs/2601.09654) | —                                                            |
+| WWW 2026               | [Orion-Bix: Bi-Axial Attention for Tabular In-Context Learning](https://arxiv.org/abs/2512.00181) | [Code](https://github.com/Lexsi-Labs/Orion-BiX)              |
 | arXiv 2025              | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2025              | [Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning](https://arxiv.org/abs/2511.02818) | [Code](https://github.com/Lexsi-Labs/Orion-MSP)              |
 | OpenReview              | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://openreview.net/forum?id=z7ilspv4uH) | —                                                            |
