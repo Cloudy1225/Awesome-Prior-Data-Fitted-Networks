@@ -45,7 +45,7 @@ This work established PFNs as a new family of **foundation models for structured
 | ICML 2023    | [Statistical Foundations of Prior-Data Fitted Networks](https://arxiv.org/abs/2305.11097) | [Code](https://gist.github.com/tnagler/62f6ce1f996333c799c81f1aef147e72) |
 | NeurIPS 2023 | [Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection](https://arxiv.org/abs/2306.04637) | [Code](https://github.com/allenbai01/transformers-as-statisticians) |
 | ICML 2024    | [Is In-Context Learning in Large Language Models Bayesian? A Martingale Perspective](https://arxiv.org/abs/2406.00793) | [Code](https://github.com/meta-inf/bayes_icl)                |
-| ICML 2025    | [Can Transformers Learn Full Bayesian Inference in Context?](https://arxiv.org/abs/2501.16825) | [Code]([DongWooLee-Eli/nslpfn](https://github.com/DongWooLee-Eli/nslpfn)) |
+| ICML 2025    | [Can Transformers Learn Full Bayesian Inference in Context?](https://arxiv.org/abs/2501.16825) | [Code](https://github.com/ArikReuter/ICL_for_Full_Bayesian_Inference) |
 
 
 
@@ -53,9 +53,11 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                   | Title                                                        | Code                                                         |
 | :---------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| CVPR 2026      | [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](https://arxiv.org/abs/2602.20223) | [Code](https://github.com/too-z/MultiModalPFN)                                                    |
 | arXiv 2026             | [FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data](https://arxiv.org/abs/2603.16513) | —                                                            |
 | arXiv 2026             | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)                   |
 | arXiv 2026             | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel)              |
+| arXiv 2026    | [Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802) | —                                                            |
 | arXiv 2026             | [TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models](https://arxiv.org/abs/2602.08592) | —                                                            |
 | ICLR 2026              | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914) | [Code](https://github.com/yccm/CausalFM)                     |
 | ICLR 2026              | [GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models](https://openreview.net/forum?id=9iTdKS4SRQ) | [Code](https://github.com/deepbiolab/gitbo)                  |
@@ -67,14 +69,12 @@ This work established PFNs as a new family of **foundation models for structured
 | WWW 2026               | [Orion-Bix: Bi-Axial Attention for Tabular In-Context Learning](https://arxiv.org/abs/2512.00181) | [Code](https://github.com/Lexsi-Labs/Orion-BiX)              |
 | arXiv 2025              | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2025              | [Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning](https://arxiv.org/abs/2511.02818) | [Code](https://github.com/Lexsi-Labs/Orion-MSP)              |
+| arXiv 2025    | [Transformers Can Do Bayesian Clustering](https://arxiv.org/abs/2510.24318) | [Code](https://github.com/pbhaskaran/Cluster-PFN)                                                  |
 | OpenReview              | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://openreview.net/forum?id=z7ilspv4uH) | —                                                            |
 | OpenReview              | [SR-PFN: Yet Another Sequential Recommendation Paradigm](https://openreview.net/forum?id=xffb9X08Fv) | —                                                            |
-| OpenReview              | [Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://openreview.net/forum?id=90HpWIBBwE) | —                                                            |
-| OpenReview              | [Transformers Can Do Bayesian Clustering](https://openreview.net/forum?id=MCya4TeDW6) | —                                                            |
 | OpenReview              | [DistPFN: Test-Time Posterior Adjustment for Tabular Foundation Models under Label Shift](https://openreview.net/forum?id=vlpAgjkw39) | —                                                            |
 | OpenReview              | [Task-Aligned Attention Retrieval for Scaling Tabular Foundation Models](https://openreview.net/forum?id=qBMNsGiE3u) | —                                                            |
 | OpenReview              | [Large-Scale Pretraining Offers Modest Benefits for Tabular Transfer Learning](https://openreview.net/forum?id=G5zJaSxMGN) | —                                                            |
-| OpenReview              | [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](https://openreview.net/forum?id=pSyuFl8mau) | —                                                            |
 | OpenReview              | [RaBEL: Scale-Aware Radial-Basis Embeddings for Tabular Foundation Models](https://openreview.net/forum?id=odoTDh3QUk) | —                                                            |
 | arXiv 2025              | [TabPFN: One Model to Rule Them All?](https://arxiv.org/abs/2505.20003) | [Code](https://github.com/qinglong-tian/tabpfn_study)        |
 | arXiv 2025              | [TabImpute: Accurate and Fast Zero-Shot Missing-Data Imputation with a Pre-Trained Transformer](https://arxiv.org/abs/2510.02625) | [Code](https://github.com/jacobf18/tabular)                  |
