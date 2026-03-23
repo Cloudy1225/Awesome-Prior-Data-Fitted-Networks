@@ -59,6 +59,7 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026             | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel)              |
 | arXiv 2026    | [Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802) | —                                                            |
 | arXiv 2026             | [TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models](https://arxiv.org/abs/2602.08592) | —                                                            |
+| ICLR 2026              | [CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data](https://arxiv.org/abs/2508.02879) | [Code](https://github.com/ShifengXIE/CauKer)                 |
 | ICLR 2026              | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914) | [Code](https://github.com/yccm/CausalFM)                     |
 | ICLR 2026              | [GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models](https://openreview.net/forum?id=9iTdKS4SRQ) | [Code](https://github.com/deepbiolab/gitbo)                  |
 | ICLR 2026              | [Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://openreview.net/forum?id=FmxRzlu0rT) | [Code](https://sites.google.com/view/nodepfn)                |
@@ -147,7 +148,7 @@ This work established PFNs as a new family of **foundation models for structured
 | TRL @ NeurIPS 2023      | [Fine-Tuning the Retrieval Mechanism for Tabular Deep Learning](https://arxiv.org/abs/2311.07343) | —                                                            |
 | TRL @ NeurIPS 2023      | [TabPFGen -- Tabular Data Generation with TabPFN](https://arxiv.org/abs/2406.05216) | [Code](https://github.com/sebhaan/TabPFGen)                  |
 | NeurIPS 2023            | [Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks](https://arxiv.org/abs/2310.20447) | [Code](https://github.com/automl/lcpfn)                      |
-| NeurIPS 2023            | [ForecastPFN: Synthetically-Trained Zero-Shot Forecasting](https://arxiv.org/abs/2311.01933) | [Code](https://github.com/abacusai/ForecastPFN)f             |
+| NeurIPS 2023            | [ForecastPFN: Synthetically-Trained Zero-Shot Forecasting](https://arxiv.org/abs/2311.01933) | [Code](https://github.com/abacusai/ForecastPFN)              |
 | ICML 2023               | [PFNs4BO: In-Context Learning for Bayesian Optimization](https://arxiv.org/abs/2305.17535) | [Code](https://github.com/automl/PFNs4BO)                    |
 | ICML 2023               | [Statistical Foundations of Prior-Data Fitted Networks](https://arxiv.org/abs/2305.11097) | [Code](https://gist.github.com/tnagler/62f6ce1f996333c799c81f1aef147e72) |
 | ICLR 2023               | [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/abs/2207.01848) | [Code](https://github.com/PriorLabs/TabPFN)                  |
