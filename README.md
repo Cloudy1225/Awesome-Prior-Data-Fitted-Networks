@@ -55,6 +55,13 @@ This work established PFNs as a new family of **foundation models for structured
 | :---------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | CVPR 2026      | [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](https://arxiv.org/abs/2602.20223) | [Code](https://github.com/too-z/MultiModalPFN)                                                    |
 | arXiv 2026             | [FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data](https://arxiv.org/abs/2603.16513) | —                                                            |
+| arXiv 2026 | [FoMo X: Modular Explainability Signals for Outlier Detection Foundation Models](https://arxiv.org/abs/2603.17570) | [Code](https://github.com/psorus/FoMo-X) |
+| arXiv 2026 | [Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](https://arxiv.org/abs/2603.12037) | — |
+| arXiv 2026 | [Improving TabPFN's Synthetic Data Generation by Integrating Causal Structure](https://arxiv.org/abs/2603.10254) | [Code](https://github.com/DavideTugnoli/tabpfn-causal-synthetic) |
+| arXiv 2026 | [Amortized Spectral Kernel Discovery via Prior-Data Fitted Network](https://arxiv.org/abs/2601.21731) | — |
+| arXiv 2026 | [TabClustPFN: A Prior-Fitted Network for Tabular Data Clustering](https://arxiv.org/abs/2601.21656) | [Code](https://github.com/Tianqi-Zhao/TabClustPFN) |
+| arXiv 2026 | [MapPFN: Learning Causal Perturbation Maps in Context](https://github.com/marvinsxtr/MapPFN) | [Code](https://github.com/marvinsxtr/MapPFN) |
+| TSALM @ ICLR 2026 | [Interventional Time Series Priors for Causal Foundation Models](https://arxiv.org/abs/2603.11090) | [Code](https://github.com/thummd/CausalTimePrior) |
 | arXiv 2026             | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)                   |
 | arXiv 2026             | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel)              |
 | arXiv 2026    | [Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802) | —                                                            |
@@ -66,9 +73,11 @@ This work established PFNs as a new family of **foundation models for structured
 | ICLR 2026              | [Using maximal information auxiliary variables to improve synthetic data generation based on TabPFN foundation models](https://openreview.net/forum?id=6PkiUAcTWF) | —                                                            |
 | ICLR 2026              | [Efficient Autoregressive Inference for Transformer Probabilistic Models](https://arxiv.org/abs/2510.09477) | [Code](https://github.com/acerbilab/transformer-ar-buffer)   |
 | WWW 2026               | [Tabular Foundation Models are Strong Graph Anomaly Detectors](https://arxiv.org/abs/2601.17301) | [Code](https://github.com/Cloudy1225/TFM4GAD)                |
+| WWW 2026 | [Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN](https://arxiv.org/abs/2601.17912) | [Code](https://github.com/ql909/An-Empirical-Study-of-TabPFN) |
 | WWW 2026               | [Exploring Fine-Tuning for Tabular Foundation Models](https://arxiv.org/abs/2601.09654) | —                                                            |
 | WWW 2026               | [Orion-Bix: Bi-Axial Attention for Tabular In-Context Learning](https://arxiv.org/abs/2512.00181) | [Code](https://github.com/Lexsi-Labs/Orion-BiX)              |
 | arXiv 2025              | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN)                  |
+| arXiv 2025 | [Amortized Causal Discovery with Prior-Fitted Networks](https://arxiv.org/abs/2512.11840) | — |
 | arXiv 2025              | [Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning](https://arxiv.org/abs/2511.02818) | [Code](https://github.com/Lexsi-Labs/Orion-MSP)              |
 | arXiv 2025    | [Transformers Can Do Bayesian Clustering](https://arxiv.org/abs/2510.24318) | [Code](https://github.com/pbhaskaran/Cluster-PFN)                                                  |
 | OpenReview              | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://openreview.net/forum?id=z7ilspv4uH) | —                                                            |
