@@ -58,6 +58,7 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026 | [FoMo X: Modular Explainability Signals for Outlier Detection Foundation Models](https://arxiv.org/abs/2603.17570) | [Code](https://github.com/psorus/FoMo-X) |
 | arXiv 2026 | [Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](https://arxiv.org/abs/2603.12037) | — |
 | arXiv 2026 | [Improving TabPFN's Synthetic Data Generation by Integrating Causal Structure](https://arxiv.org/abs/2603.10254) | [Code](https://github.com/DavideTugnoli/tabpfn-causal-synthetic) |
+| arXiv 2026 | [From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection](https://arxiv.org/abs/2602.03018) | [Code](https://github.com/psorus/Outformer) |
 | arXiv 2026 | [Amortized Spectral Kernel Discovery via Prior-Data Fitted Network](https://arxiv.org/abs/2601.21731) | — |
 | arXiv 2026 | [TabClustPFN: A Prior-Fitted Network for Tabular Data Clustering](https://arxiv.org/abs/2601.21656) | [Code](https://github.com/Tianqi-Zhao/TabClustPFN) |
 | arXiv 2026 | [MapPFN: Learning Causal Perturbation Maps in Context](https://github.com/marvinsxtr/MapPFN) | [Code](https://github.com/marvinsxtr/MapPFN) |
