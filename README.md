@@ -77,6 +77,7 @@ This work established PFNs as a new family of **foundation models for structured
 | WWW 2026 | [Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN](https://arxiv.org/abs/2601.17912) | [Code](https://github.com/ql909/An-Empirical-Study-of-TabPFN) |
 | WWW 2026               | [Exploring Fine-Tuning for Tabular Foundation Models](https://arxiv.org/abs/2601.09654) | —                                                            |
 | WWW 2026               | [Orion-Bix: Bi-Axial Attention for Tabular In-Context Learning](https://arxiv.org/abs/2512.00181) | [Code](https://github.com/Lexsi-Labs/Orion-BiX)              |
+| arXiv 2025             | [nanoTabPFN: A Lightweight and Educational Reimplementation of TabPFN](https://arxiv.org/abs/2511.03634) | [Code](https://github.com/automl/nanoTabPFN)                 |
 | arXiv 2025              | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2025 | [Amortized Causal Discovery with Prior-Fitted Networks](https://arxiv.org/abs/2512.11840) | — |
 | arXiv 2025              | [Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning](https://arxiv.org/abs/2511.02818) | [Code](https://github.com/Lexsi-Labs/Orion-MSP)              |
@@ -172,12 +173,11 @@ This work established PFNs as a new family of **foundation models for structured
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | **[`automl/PFNs`](https://github.com/automl/PFNs)**          | Canonical PFN implementation; synthetic task generation, Bayesian inference via transformers. |
 | **[`PriorLabs/TabPFN`](https://github.com/PriorLabs/TabPFN)** | Official Tabular PFN implementation (classification + regression) |
+| **[`automl/nanoTabPFN`](https://github.com/automl/nanoTabPFN)** | Lightweight and educational reimplementation of TabPFN       |
 | **[`PriorLabs/tabpfn-extensions`](https://github.com/PriorLabs/tabpfn-extensions)** | Extensions: interpretability, more classes, imputation, and analysis tools |
 | **[`PriorLabs/awesome-tabpfn`](https://github.com/PriorLabs/awesome-tabpfn)** | Community-curated list of TabPFN applications and papers     |
 | **[`PriorLabs/tabpfn-time-series`](https://github.com/PriorLabs/tabpfn-time-series)** | Time-series adaptation of TabPFN                             |
 | **[`david-rundel/tabpfn_iml`](https://github.com/david-rundel/tabpfn_iml)** | Interpretability module for TabPFN (SHAP, feature attribution) |
-| **[`yandex-research/G2T-FM`](https://github.com/yandex-research/G2T-FM)** | Graph-to-Table Foundation Model: extend TabPFN to graph data |
-| **[`yandex-research/graphpfn`](https://github.com/yandex-research/graphpfn)** | GraphPFN: PFN with graph priors and message-passing transformer |
 | **[`abacusai/ForecastPFN`](https://github.com/abacusai/ForecastPFN)** | PFN for zero-shot time-series forecasting                    |
 | **[`soda-inria/tabicl`](https://github.com/soda-inria/tabicl)** | a more scalable tabular foundation model                     |
 | **[`limix-ldm/LimiX`](https://github.com/limix-ldm/LimiX)**  | LimiX: a tabular foundation model generalizing TabPFN        |
