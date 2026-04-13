@@ -63,6 +63,7 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026 | [TabClustPFN: A Prior-Fitted Network for Tabular Data Clustering](https://arxiv.org/abs/2601.21656) | [Code](https://github.com/Tianqi-Zhao/TabClustPFN) |
 | arXiv 2026 | [MapPFN: Learning Causal Perturbation Maps in Context](https://github.com/marvinsxtr/MapPFN) | [Code](https://github.com/marvinsxtr/MapPFN) |
 | TSALM @ ICLR 2026 | [Interventional Time Series Priors for Causal Foundation Models](https://arxiv.org/abs/2603.11090) | [Code](https://github.com/thummd/CausalTimePrior) |
+| arXiv 2026             | [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) | [Code](https://github.com/soda-inria/tabicl)                 |
 | arXiv 2026             | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)                   |
 | arXiv 2026             | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel)              |
 | arXiv 2026    | [Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802) | —                                                            |
