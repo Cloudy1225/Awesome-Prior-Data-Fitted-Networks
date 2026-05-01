@@ -53,6 +53,8 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                   | Title                                                        | Code                                                         |
 | :---------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ICML 2026              | When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach | —                                                            |
+| arXiv 2026             | [Can Tabular Foundation Models Guide Exploration in Robot Policy Learning](https://arxiv.org/abs/2604.27667) | —                                                            |
 | CVPR 2026      | [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](https://arxiv.org/abs/2602.20223) | [Code](https://github.com/too-z/MultiModalPFN)                                                    |
 | arXiv 2026             | [FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data](https://arxiv.org/abs/2603.16513) | —                                                            |
 | arXiv 2026 | [FoMo X: Modular Explainability Signals for Outlier Detection Foundation Models](https://arxiv.org/abs/2603.17570) | [Code](https://github.com/psorus/FoMo-X) |
