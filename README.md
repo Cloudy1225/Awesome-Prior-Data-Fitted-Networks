@@ -81,6 +81,7 @@ This work established PFNs as a new family of **foundation models for structured
 | WWW 2026               | [Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN](https://arxiv.org/abs/2601.17912) | [Code](https://github.com/ql909/An-Empirical-Study-of-TabPFN) |
 | WWW 2026               | [Exploring Fine-Tuning for Tabular Foundation Models](https://arxiv.org/abs/2601.09654) | —                                                            |
 | WWW 2026               | [Orion-Bix: Bi-Axial Attention for Tabular In-Context Learning](https://arxiv.org/abs/2512.00181) | [Code](https://github.com/Lexsi-Labs/Orion-BiX)              |
+| arXiv 2025             | [Can TabPFN Compete with GNNs for Node Classification via Graph Tabularization?](https://arxiv.org/pdf/2512.08798) | —                                                            |
 | arXiv 2025             | [nanoTabPFN: A Lightweight and Educational Reimplementation of TabPFN](https://arxiv.org/abs/2511.03634) | [Code](https://github.com/automl/nanoTabPFN)                 |
 | arXiv 2025             | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2025             | [Amortized Causal Discovery with Prior-Fitted Networks](https://arxiv.org/abs/2512.11840) | —                                                            |
