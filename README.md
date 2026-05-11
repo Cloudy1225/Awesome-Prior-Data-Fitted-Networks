@@ -67,6 +67,7 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026             | [Amortized Spectral Kernel Discovery via Prior-Data Fitted Network](https://arxiv.org/abs/2601.21731) | —                                                            |
 | arXiv 2026             | [TabClustPFN: A Prior-Fitted Network for Tabular Data Clustering](https://arxiv.org/abs/2601.21656) | [Code](https://github.com/Tianqi-Zhao/TabClustPFN)           |
 | arXiv 2026             | [MapPFN: Learning Causal Perturbation Maps in Context](https://github.com/marvinsxtr/MapPFN) | [Code](https://github.com/marvinsxtr/MapPFN)                 |
+| arXiv 2026             | [TABULA: A Tabular Self-Supervised Foundation Model for Single-Cell Transcriptomics](https://proceedings.neurips.cc/paper_files/paper/2025/file/95d590995a8722259c61e094b62b25ac-Paper-Conference.pdf) | [Code](https://github.com/aristoteleo/tabula)                 |
 | TSALM @ ICLR 2026      | [Interventional Time Series Priors for Causal Foundation Models](https://arxiv.org/abs/2603.11090) | [Code](https://github.com/thummd/CausalTimePrior)            |
 | arXiv 2026             | [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) | [Code](https://github.com/soda-inria/tabicl)                 |
 | arXiv 2026             | [Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802) | —                                                            |
