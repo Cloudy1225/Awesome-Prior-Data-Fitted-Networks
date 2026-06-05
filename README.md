@@ -125,10 +125,11 @@ This work established PFNs as a new family of **foundation models for structured
 
 ### On Relational Databases
 
-| Venue     | Title                                                        | Code                                            |
-| :-------- | :----------------------------------------------------------- | :---------------------------------------------- |
-| ICML 2026 | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)      |
-| ICML 2026 | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel) |
+| Venue      | Title                                                        | Code                                            |
+| :--------- | :----------------------------------------------------------- | :---------------------------------------------- |
+| arXiv 2026 | [OpenRFM: Dissecting Relational In-Context Learning](https://arxiv.org/abs/2606.04320) | —                                               |
+| ICML 2026  | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)      |
+| ICML 2026  | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel) |
 
 ### On Causal 
 
@@ -146,6 +147,7 @@ This work established PFNs as a new family of **foundation models for structured
 | Venue                  | Title                                                        | Code                                                         |
 | :--------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | arXiv 2026             | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN)                  |
+| arXiv 2026             | [OpenRFM: Dissecting Relational In-Context Learning](https://arxiv.org/abs/2606.04320) | —                                                            |
 | arXiv 2026             | [VIP-COP: Context Optimization for Tabular Foundation Models](https://arxiv.org/abs/2605.12904) | —                                                            |
 | arXiv 2026             | [Toward Privileged Foundation Models:LUPI for Accelerated and Improved Learning](https://arxiv.org/abs/2605.07799) | [Code](https://github.com/xyvivian/PIQL)                     |
 | arXiv 2026             | [KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907) | [Code](https://github.com/HKUST-KnowComp/KGPFN)              |
