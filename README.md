@@ -82,7 +82,8 @@ This work established PFNs as a new family of **foundation models for structured
 | :----------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | arXiv 2026   | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2026   | [FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data](https://arxiv.org/abs/2603.16513) | —                                                            |
-| arXiv 2026   | [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) | [Code](https://github.com/soda-inria/tabicl)                 |
+| ICML 2026    | [LimiX-2M: Mitigating Low-Rank Collapse and Attention Bottlenecks in Tabular Foundation Models](https://arxiv.org/abs/2606.04485) | [Code](https://github.com/limix-ldm-ai/LimiX)          |
+| ICML 2026    | [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) | [Code](https://github.com/soda-inria/tabicl)                 |
 | WWW 2026     | [Tabular Foundation Models are Strong Graph Anomaly Detectors](https://arxiv.org/abs/2601.17301) | [Code](https://github.com/Cloudy1225/TFM4GAD)                |
 | arXiv 2025   | [nanoTabPFN: A Lightweight and Educational Reimplementation of TabPFN](https://arxiv.org/abs/2511.03634) | [Code](https://github.com/automl/nanoTabPFN)                 |
 | arXiv 2025   | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN)                  |
@@ -151,7 +152,11 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026             | [VIP-COP: Context Optimization for Tabular Foundation Models](https://arxiv.org/abs/2605.12904) | —                                                            |
 | arXiv 2026             | [Toward Privileged Foundation Models:LUPI for Accelerated and Improved Learning](https://arxiv.org/abs/2605.07799) | [Code](https://github.com/xyvivian/PIQL)                     |
 | arXiv 2026             | [KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907) | [Code](https://github.com/HKUST-KnowComp/KGPFN)              |
-| ICML 2026              | [SwiftPFN: Revisiting Row-Wise Attention–Only Tabular Foundation Models with Adaptive Early Exit](https://icml.cc/virtual/2026/poster/61560) | —                                                            |
+| ICML 2026              | [Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models](https://arxiv.org/abs/2605.06510) | [Code](https://github.com/amirbalef/is_one_layer_enough)     |
+| ICML 2026              | [End-to-End Compression for Tabular Foundation Models](https://arxiv.org/abs/2602.05649) | [Code](https://github.com/machinelearningnuremberg/TACO)     |
+| ICML 2026              | [LimiX-2M: Mitigating Low-Rank Collapse and Attention Bottlenecks in Tabular Foundation Models](https://arxiv.org/abs/2606.04485) | [Code](https://github.com/limix-ldm-ai/LimiX)                |
+| ICML 2026              | [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) | [Code](https://github.com/soda-inria/tabicl)                 |
+| ICML 2026              | [TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention](https://arxiv.org/abs/2606.07345) | [Code](https://github.com/LAMDA-Tabular/TabSwift)            |
 | ICML 2026              | [Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](https://arxiv.org/abs/2603.12037) | [Code](https://github.com/Valentyn1997/freq-cons-pfns)       |
 | ICML 2026              | [Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment](https://arxiv.org/abs/2605.04363) | [Code](https://github.com/seunghan96/DistPFN)                |
 | ICML 2026              | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)                   |
@@ -168,7 +173,6 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026             | [TabClustPFN: A Prior-Fitted Network for Tabular Data Clustering](https://arxiv.org/abs/2601.21656) | [Code](https://github.com/Tianqi-Zhao/TabClustPFN)           |
 | arXiv 2026             | [MapPFN: Learning Causal Perturbation Maps in Context](https://github.com/marvinsxtr/MapPFN) | [Code](https://github.com/marvinsxtr/MapPFN)                 |
 | TSALM @ ICLR 2026      | [Interventional Time Series Priors for Causal Foundation Models](https://arxiv.org/abs/2603.11090) | [Code](https://github.com/thummd/CausalTimePrior)            |
-| arXiv 2026             | [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) | [Code](https://github.com/soda-inria/tabicl)                 |
 | arXiv 2026             | [Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802) | —                                                            |
 | arXiv 2026             | [TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models](https://arxiv.org/abs/2602.08592) | —                                                            |
 | ICLR 2026              | [CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data](https://arxiv.org/abs/2508.02879) | [Code](https://github.com/ShifengXIE/CauKer)                 |
