@@ -50,6 +50,7 @@ This work established PFNs as a new family of **foundation models for structured
 | Nature     | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2025 | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2026 | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN) |
+| ICML 2026  | [Foundation Models for Structured Data Workshop at ICML](https://icml-structured-fm-workshop.github.io) | —                                           |
 
 
 
@@ -82,7 +83,7 @@ This work established PFNs as a new family of **foundation models for structured
 | :----------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | arXiv 2026   | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2026   | [FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data](https://arxiv.org/abs/2603.16513) | —                                                            |
-| ICML 2026    | [LimiX-2M: Mitigating Low-Rank Collapse and Attention Bottlenecks in Tabular Foundation Models](https://arxiv.org/abs/2606.04485) | [Code](https://github.com/limix-ldm-ai/LimiX)          |
+| ICML 2026    | [LimiX-2M: Mitigating Low-Rank Collapse and Attention Bottlenecks in Tabular Foundation Models](https://arxiv.org/abs/2606.04485) | [Code](https://github.com/limix-ldm-ai/LimiX)                |
 | ICML 2026    | [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) | [Code](https://github.com/soda-inria/tabicl)                 |
 | WWW 2026     | [Tabular Foundation Models are Strong Graph Anomaly Detectors](https://arxiv.org/abs/2601.17301) | [Code](https://github.com/Cloudy1225/TFM4GAD)                |
 | arXiv 2025   | [nanoTabPFN: A Lightweight and Educational Reimplementation of TabPFN](https://arxiv.org/abs/2511.03634) | [Code](https://github.com/automl/nanoTabPFN)                 |
@@ -115,6 +116,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue      | Title                                                        | Code                                                |
 | :--------- | :----------------------------------------------------------- | :-------------------------------------------------- |
+| KDD 2026               | [Node4All: Learning Node Representation Beyond Datasets](https://github.com/dooho00/node4all/blob/main/docs/node4all_kdd_2026.pdf) | [Code](https://github.com/dooho00/node4all)                  |
 | arXiv 2026 | [KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907) | [Code](https://github.com/HKUST-KnowComp/KGPFN)     |
 | ICML 2026  | [GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489) | [Code](https://github.com/yandex-research/graphpfn) |
 | arXiv 2026 | [TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models](https://arxiv.org/abs/2602.08592) | —                                                   |
@@ -147,6 +149,8 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                  | Title                                                        | Code                                                         |
 | :--------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| KDD 2026               | [Node4All: Learning Node Representation Beyond Datasets](https://github.com/dooho00/node4all/blob/main/docs/node4all_kdd_2026.pdf) | [Code](https://github.com/dooho00/node4all)                  |
+| KDD 2026               | [One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets](https://arxiv.org/abs/2606.15752) | [Code](https://zenodo.org/records/20403804)                  |
 | arXiv 2026             | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2026             | [OpenRFM: Dissecting Relational In-Context Learning](https://arxiv.org/abs/2606.04320) | —                                                            |
 | arXiv 2026             | [VIP-COP: Context Optimization for Tabular Foundation Models](https://arxiv.org/abs/2605.12904) | —                                                            |
@@ -192,7 +196,6 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2025             | [Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning](https://arxiv.org/abs/2511.02818) | [Code](https://github.com/Lexsi-Labs/Orion-MSP)              |
 | arXiv 2025             | [Transformers Can Do Bayesian Clustering](https://arxiv.org/abs/2510.24318) | [Code](https://github.com/pbhaskaran/Cluster-PFN)            |
 | OpenReview             | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://openreview.net/forum?id=z7ilspv4uH) | —                                                            |
-| OpenReview             | [SR-PFN: Yet Another Sequential Recommendation Paradigm](https://openreview.net/forum?id=xffb9X08Fv) | —                                                            |
 | OpenReview             | [Task-Aligned Attention Retrieval for Scaling Tabular Foundation Models](https://openreview.net/forum?id=qBMNsGiE3u) | —                                                            |
 | OpenReview             | [Large-Scale Pretraining Offers Modest Benefits for Tabular Transfer Learning](https://openreview.net/forum?id=G5zJaSxMGN) | —                                                            |
 | OpenReview             | [RaBEL: Scale-Aware Radial-Basis Embeddings for Tabular Foundation Models](https://openreview.net/forum?id=odoTDh3QUk) | —                                                            |
