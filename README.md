@@ -131,6 +131,7 @@ This work established PFNs as a new family of **foundation models for structured
 | Venue      | Title                                                        | Code                                            |
 | :--------- | :----------------------------------------------------------- | :---------------------------------------------- |
 | arXiv 2026 | [OpenRFM: Dissecting Relational In-Context Learning](https://arxiv.org/abs/2606.04320) | —                                               |
+| ICML 2026              | [No Need to Train Your RDB Foundation Model](https://arxiv.org/abs/2602.13697) | [Code](https://github.com/HKUSHXLab/rdblearn)                |
 | ICML 2026  | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)      |
 | ICML 2026  | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel) |
 
@@ -151,11 +152,13 @@ This work established PFNs as a new family of **foundation models for structured
 | :--------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | KDD 2026               | [Node4All: Learning Node Representation Beyond Datasets](https://github.com/dooho00/node4all/blob/main/docs/node4all_kdd_2026.pdf) | [Code](https://github.com/dooho00/node4all)                  |
 | KDD 2026               | [One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets](https://arxiv.org/abs/2606.15752) | [Code](https://zenodo.org/records/20403804)                  |
+| KDD 2026               | [In-context Learning of Evolving Data Streams with Tabular Foundational Models](https://arxiv.org/abs/2502.16840) | —                                                            |
 | arXiv 2026             | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2026             | [OpenRFM: Dissecting Relational In-Context Learning](https://arxiv.org/abs/2606.04320) | —                                                            |
 | arXiv 2026             | [VIP-COP: Context Optimization for Tabular Foundation Models](https://arxiv.org/abs/2605.12904) | —                                                            |
 | arXiv 2026             | [Toward Privileged Foundation Models:LUPI for Accelerated and Improved Learning](https://arxiv.org/abs/2605.07799) | [Code](https://github.com/xyvivian/PIQL)                     |
 | arXiv 2026             | [KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907) | [Code](https://github.com/HKUST-KnowComp/KGPFN)              |
+| ICML 2026              | [No Need to Train Your RDB Foundation Model](https://arxiv.org/abs/2602.13697) | [Code](https://github.com/HKUSHXLab/rdblearn)                |
 | ICML 2026              | [Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models](https://arxiv.org/abs/2605.06510) | [Code](https://github.com/amirbalef/is_one_layer_enough)     |
 | ICML 2026              | [End-to-End Compression for Tabular Foundation Models](https://arxiv.org/abs/2602.05649) | [Code](https://github.com/machinelearningnuremberg/TACO)     |
 | ICML 2026              | [LimiX-2M: Mitigating Low-Rank Collapse and Attention Bottlenecks in Tabular Foundation Models](https://arxiv.org/abs/2606.04485) | [Code](https://github.com/limix-ldm-ai/LimiX)                |
