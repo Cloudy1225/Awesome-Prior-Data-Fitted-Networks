@@ -116,7 +116,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue      | Title                                                        | Code                                                |
 | :--------- | :----------------------------------------------------------- | :-------------------------------------------------- |
-| KDD 2026               | [Node4All: Learning Node Representation Beyond Datasets](https://github.com/dooho00/node4all/blob/main/docs/node4all_kdd_2026.pdf) | [Code](https://github.com/dooho00/node4all)                  |
+| KDD 2026   | [Node4All: Learning Node Representation Beyond Datasets](https://github.com/dooho00/node4all/blob/main/docs/node4all_kdd_2026.pdf) | [Code](https://github.com/dooho00/node4all)         |
 | arXiv 2026 | [KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907) | [Code](https://github.com/HKUST-KnowComp/KGPFN)     |
 | ICML 2026  | [GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489) | [Code](https://github.com/yandex-research/graphpfn) |
 | arXiv 2026 | [TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models](https://arxiv.org/abs/2602.08592) | —                                                   |
@@ -131,7 +131,7 @@ This work established PFNs as a new family of **foundation models for structured
 | Venue      | Title                                                        | Code                                            |
 | :--------- | :----------------------------------------------------------- | :---------------------------------------------- |
 | arXiv 2026 | [OpenRFM: Dissecting Relational In-Context Learning](https://arxiv.org/abs/2606.04320) | —                                               |
-| ICML 2026              | [No Need to Train Your RDB Foundation Model](https://arxiv.org/abs/2602.13697) | [Code](https://github.com/HKUSHXLab/rdblearn)                |
+| ICML 2026  | [No Need to Train Your RDB Foundation Model](https://arxiv.org/abs/2602.13697) | [Code](https://github.com/HKUSHXLab/rdblearn)   |
 | ICML 2026  | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)      |
 | ICML 2026  | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel) |
 
@@ -170,6 +170,7 @@ This work established PFNs as a new family of **foundation models for structured
 | ICML 2026              | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel)              |
 | ICML 2026              | [From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection](https://arxiv.org/abs/2602.03018) | [Code](https://github.com/psorus/Outformer)                  |
 | ICML 2026              | [GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489) | [Code](https://github.com/yandex-research/graphpfn)          |
+| ICML 2026              | [Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](https://arxiv.org/abs/2502.02463) | [Code](https://github.com/GWhittle110/distribution-transformers) |
 | ICML 2026              | [When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach](https://arxiv.org/abs/2605.19662) | —                                                            |
 | arXiv 2026             | [Can Tabular Foundation Models Guide Exploration in Robot Policy Learning](https://arxiv.org/abs/2604.27667) | —                                                            |
 | CVPR 2026              | [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](https://arxiv.org/abs/2602.20223) | [Code](https://github.com/too-z/MultiModalPFN)               |
@@ -337,3 +338,4 @@ Contributions are welcome!
 ## License & Credits
 
 This list aggregates publicly available PFN-related resources. Each work retains its own license and citation requirements. If you use these resources, please cite the corresponding paper and repository.
+
