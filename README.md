@@ -14,6 +14,7 @@ A curated collection of papers, repositories, and resources on **Prior-data Fitt
   - [On Graphs](#on-graphs)
   - [On Relational Databases](#on-relational-databases)
   - [On Causal](#on-causal)
+  - [On AI4Science](#on-ai4science)
   - [All Papers](#all-papers)
 - [GitHub Repositories](#github-repositories)
 - [Other Applications](#other-applications)
@@ -50,7 +51,8 @@ This work established PFNs as a new family of **foundation models for structured
 | Nature     | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2025 | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2026 | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN) |
-| ICML 2026  | [Foundation Models for Structured Data Workshop at ICML](https://icml-structured-fm-workshop.github.io) | —                                           |
+
+**Please see the [Foundation Models for Structured Data Workshop](https://icml-structured-fm-workshop.github.io) for recent progress.**
 
 
 
@@ -146,10 +148,21 @@ This work established PFNs as a new family of **foundation models for structured
 | NeurIPS 2025 | [CausalPFN: Amortized Causal Effect Estimation via In-Context Learning](https://arxiv.org/abs/2506.07918) | [Code](https://github.com/vdblm/CausalPFN)             |
 | ICML 2025    | [FairPFN: A Tabular Foundation Model for Causal Fairness](https://arxiv.org/abs/2506.07049) | [Code](https://github.com/jr2021/FairPFN)              |
 
+### On AI4Science
+
+| Venue | Title | Code |
+| :---- | :---- | :--- |
+| FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
+| FMSD @ ICML 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code]([this https URL](https://github.com/rgklab/SurvivalPFN)) |
+| ICLR 2025              | [KinPFN: Bayesian Approximation of RNA Folding Kinetics using Prior-Data Fitted Networks](https://openreview.net/forum?id=E1m5yGMOiV) | [Code](https://github.com/automl/KinPFN)                     |
+| TCBBIO 2025            | [GPFN: Prior-Data Fitted Networks for Genomic Prediction](https://www.biorxiv.org/content/10.1101/2023.09.20.558648) | [Code](https://github.com/jubbens/gpfn)                      |
+
 ### All Papers
 
 | Venue                  | Title                                                        | Code                                                         |
 | :--------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
+| FMSD @ ICML 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code]([this https URL](https://github.com/rgklab/SurvivalPFN)) |
 | KDD 2026               | [Node4All: Learning Node Representation Beyond Datasets](https://github.com/dooho00/node4all/blob/main/docs/node4all_kdd_2026.pdf) | [Code](https://github.com/dooho00/node4all)                  |
 | KDD 2026               | [One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets](https://arxiv.org/abs/2606.15752) | [Code](https://zenodo.org/records/20403804)                  |
 | KDD 2026               | [In-context Learning of Evolving Data Streams with Tabular Foundational Models](https://arxiv.org/abs/2502.16840) | —                                                            |
@@ -338,4 +351,3 @@ Contributions are welcome!
 ## License & Credits
 
 This list aggregates publicly available PFN-related resources. Each work retains its own license and citation requirements. If you use these resources, please cite the corresponding paper and repository.
-
