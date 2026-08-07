@@ -163,6 +163,7 @@ This work established PFNs as a new family of **foundation models for structured
 | :--------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
 | FMSD @ ICML 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code]([this https URL](https://github.com/rgklab/SurvivalPFN)) |
+| KDD 2026               | [StablePFN: Stable Prediction with Causal-Aware Tabular Foundation Model](https://dl.acm.org/doi/10.1145/3770855.3818030) | [Code](https://github.com/GuanZhengkang/StablePFN)           |
 | KDD 2026               | [Node4All: Learning Node Representation Beyond Datasets](https://github.com/dooho00/node4all/blob/main/docs/node4all_kdd_2026.pdf) | [Code](https://github.com/dooho00/node4all)                  |
 | KDD 2026               | [One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets](https://arxiv.org/abs/2606.15752) | [Code](https://zenodo.org/records/20403804)                  |
 | KDD 2026               | [In-context Learning of Evolving Data Streams with Tabular Foundational Models](https://arxiv.org/abs/2502.16840) | —                                                            |
