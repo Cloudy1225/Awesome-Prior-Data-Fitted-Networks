@@ -153,7 +153,7 @@ This work established PFNs as a new family of **foundation models for structured
 | Venue | Title | Code |
 | :---- | :---- | :--- |
 | FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
-| FMSD @ ICML 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code]([this https URL](https://github.com/rgklab/SurvivalPFN)) |
+| FMSD @ ICML 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code](https://github.com/rgklab/SurvivalPFN) |
 | ICLR 2025              | [KinPFN: Bayesian Approximation of RNA Folding Kinetics using Prior-Data Fitted Networks](https://openreview.net/forum?id=E1m5yGMOiV) | [Code](https://github.com/automl/KinPFN)                     |
 | TCBBIO 2025            | [GPFN: Prior-Data Fitted Networks for Genomic Prediction](https://www.biorxiv.org/content/10.1101/2023.09.20.558648) | [Code](https://github.com/jubbens/gpfn)                      |
 
@@ -172,6 +172,7 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026             | [VIP-COP: Context Optimization for Tabular Foundation Models](https://arxiv.org/abs/2605.12904) | —                                                            |
 | arXiv 2026             | [Toward Privileged Foundation Models:LUPI for Accelerated and Improved Learning](https://arxiv.org/abs/2605.07799) | [Code](https://github.com/xyvivian/PIQL)                     |
 | arXiv 2026             | [KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907) | [Code](https://github.com/HKUST-KnowComp/KGPFN)              |
+| arXiv 2026             | [TACTIC for Navigating the Unknown: Tabular Anomaly deteCTion via In-Context inference](https://arxiv.org/abs/2603.14171) | [Code](https://github.com/gmum/TACTIC)                       |
 | ICML 2026              | [No Need to Train Your RDB Foundation Model](https://arxiv.org/abs/2602.13697) | [Code](https://github.com/HKUSHXLab/rdblearn)                |
 | ICML 2026              | [Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models](https://arxiv.org/abs/2605.06510) | [Code](https://github.com/amirbalef/is_one_layer_enough)     |
 | ICML 2026              | [End-to-End Compression for Tabular Foundation Models](https://arxiv.org/abs/2602.05649) | [Code](https://github.com/machinelearningnuremberg/TACO)     |
