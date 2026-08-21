@@ -141,6 +141,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue        | Title                                                        | Code                                                   |
 | :----------- | :----------------------------------------------------------- | :----------------------------------------------------- |
+| ICML 2026 | [Unveiling Prior-Data Fitted Networks on Causal Effect Estimation: Pre-Training or Fine-Tuning](https://openreview.net/forum?id=YjPDsCH5zg) | — |
 | ICML 2026    | [Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](https://arxiv.org/abs/2603.12037) | [Code](https://github.com/Valentyn1997/freq-cons-pfns) |
 | ICLR 2026    | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914) | [Code](https://github.com/yccm/CausalFM)               |
 | arXiv 2025   | [Amortized Causal Discovery with Prior-Fitted Networks](https://arxiv.org/abs/2512.11840) | —                                                      |
@@ -174,6 +175,7 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026             | [Toward Privileged Foundation Models:LUPI for Accelerated and Improved Learning](https://arxiv.org/abs/2605.07799) | [Code](https://github.com/xyvivian/PIQL)                     |
 | arXiv 2026             | [KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907) | [Code](https://github.com/HKUST-KnowComp/KGPFN)              |
 | arXiv 2026             | [TACTIC for Navigating the Unknown: Tabular Anomaly deteCTion via In-Context inference](https://arxiv.org/abs/2603.14171) | [Code](https://github.com/gmum/TACTIC)                       |
+| ICML 2026 | [Unveiling Prior-Data Fitted Networks on Causal Effect Estimation: Pre-Training or Fine-Tuning](https://openreview.net/forum?id=YjPDsCH5zg) | — |
 | ICML 2026              | [No Need to Train Your RDB Foundation Model](https://arxiv.org/abs/2602.13697) | [Code](https://github.com/HKUSHXLab/rdblearn)                |
 | ICML 2026              | [Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models](https://arxiv.org/abs/2605.06510) | [Code](https://github.com/amirbalef/is_one_layer_enough)     |
 | ICML 2026              | [End-to-End Compression for Tabular Foundation Models](https://arxiv.org/abs/2602.05649) | [Code](https://github.com/machinelearningnuremberg/TACO)     |
