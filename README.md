@@ -136,6 +136,8 @@ This work established PFNs as a new family of **foundation models for structured
 | ICML 2026  | [No Need to Train Your RDB Foundation Model](https://arxiv.org/abs/2602.13697) | [Code](https://github.com/HKUSHXLab/rdblearn)   |
 | ICML 2026  | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)      |
 | ICML 2026  | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel) |
+| TaDA @ VLDB 2026  | [Curriculum Matters: Data-Efficient Relational PFN Pretraining with Synthetic Data](https://arxiv.org/pdf/2607.29120) | — |
+
 
 ### On Causal 
 
