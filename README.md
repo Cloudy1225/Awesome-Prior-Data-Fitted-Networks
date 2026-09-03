@@ -162,6 +162,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                  | Title                                                        | Code                                                         |
 | :--------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| arXiv 2026 | [Understanding the Surprising Generalization Properties of Tabular Foundation Models](https://arxiv.org/abs/2608.17957) | — |
 | Nature Communications 2026 | [A multi-fidelity tabular prior-data fitted network model for accurate prediction and uncertainty quantification](https://www.nature.com/articles/s41467-026-75163-w) | [Code](https://github.com/Rockou/MFTabPFN)         |
 | FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
 | FMSD @ ICML 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code](https://github.com/rgklab/SurvivalPFN) |
@@ -175,6 +176,7 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026             | [Toward Privileged Foundation Models:LUPI for Accelerated and Improved Learning](https://arxiv.org/abs/2605.07799) | [Code](https://github.com/xyvivian/PIQL)                     |
 | arXiv 2026             | [KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907) | [Code](https://github.com/HKUST-KnowComp/KGPFN)              |
 | arXiv 2026             | [TACTIC for Navigating the Unknown: Tabular Anomaly deteCTion via In-Context inference](https://arxiv.org/abs/2603.14171) | [Code](https://github.com/gmum/TACTIC)                       |
+| ICML 2026 | [α-PFN: Fast Entropy Search via In-Context Learning](https://arxiv.org/abs/2606.07134) | [Code](https://github.com/automl/AlphaPFN) |
 | ICML 2026 | [Unveiling Prior-Data Fitted Networks on Causal Effect Estimation: Pre-Training or Fine-Tuning](https://openreview.net/forum?id=YjPDsCH5zg) | — |
 | ICML 2026              | [No Need to Train Your RDB Foundation Model](https://arxiv.org/abs/2602.13697) | [Code](https://github.com/HKUSHXLab/rdblearn)                |
 | ICML 2026              | [Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models](https://arxiv.org/abs/2605.06510) | [Code](https://github.com/amirbalef/is_one_layer_enough)     |
@@ -263,7 +265,6 @@ This work established PFNs as a new family of **foundation models for structured
 | AISTATS 2025           | [Prior-Fitted Networks Scale to Larger Datasets When Treated as Weak Learners](https://arxiv.org/abs/2503.01256) | [Code](https://github.com/yxzwang/BoostPFN)                  |
 | TMLR 2025              | [FoMo-0D: A Foundation Model for Zero-shot Tabular Outlier Detection](https://arxiv.org/abs/2409.05672) | [Code](https://github.com/A-Chicharito-S/FoMo-0D)            |
 | AABI @ ICLR 2025       | [Uncertainty Quantification for Prior-Data Fitted Networks using Martingale Posteriors](https://arxiv.org/abs/2505.11325) | —                                                            |
-| FPI @ ICLR 2025        | [α-PFN: In-Context Learning Entropy Search](https://openreview.net/forum?id=IMVqPGYxyD) | —                                                            |
 | ICLR 2025              | [Mixture of In-Context Prompters for Tabular PFNs](https://arxiv.org/abs/2405.16156) | —                                                            |
 | ICLR 2025              | [KinPFN: Bayesian Approximation of RNA Folding Kinetics using Prior-Data Fitted Networks](https://openreview.net/forum?id=E1m5yGMOiV) | [Code](https://github.com/automl/KinPFN)                     |
 | AAAI 2025              | [TimePFN: Effective Multivariate Time Series Forecasting with Synthetic Data](https://arxiv.org/abs/2502.16294) | [Code](https://github.com/egetaga/TimePFN)                   |
