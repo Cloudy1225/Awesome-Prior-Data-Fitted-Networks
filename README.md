@@ -83,6 +83,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue        | Title                                                        | Code                                                         |
 | :----------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
 | arXiv 2026   | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2026   | [FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data](https://arxiv.org/abs/2603.16513) | —                                                            |
 | ICML 2026    | [LimiX-2M: Mitigating Low-Rank Collapse and Attention Bottlenecks in Tabular Foundation Models](https://arxiv.org/abs/2606.04485) | [Code](https://github.com/limix-ldm-ai/LimiX)                |
@@ -162,6 +163,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                  | Title                                                        | Code                                                         |
 | :--------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
 | arXiv 2026 | [Understanding the Surprising Generalization Properties of Tabular Foundation Models](https://arxiv.org/abs/2608.17957) | — |
 | Nature Communications 2026 | [A multi-fidelity tabular prior-data fitted network model for accurate prediction and uncertainty quantification](https://www.nature.com/articles/s41467-026-75163-w) | [Code](https://github.com/Rockou/MFTabPFN)         |
 | FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
