@@ -243,6 +243,7 @@ This work established PFNs as a new family of **foundation models for structured
 | SSRN 2025              | [MultiTabPFN: Codebook-based Extensions of TabPFN for High-Class-Count Tabular Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545797) | —                                                            |
 | TCBBIO 2025            | [GPFN: Prior-Data Fitted Networks for Genomic Prediction](https://www.biorxiv.org/content/10.1101/2023.09.20.558648) | [Code](https://github.com/jubbens/gpfn)                      |
 | RML @ NeurIPS 2025     | [Robust Multi-task Modeling for Bayesian Optimization via In-Context Learning](https://openreview.net/forum?id=iwqJLEPgvF) | —                                                            |
+| NeurIPS 2025               | [When and How Unlabeled Data Provably Improve In-Context Learning](https://arxiv.org/abs/2506.15329) | —                                                            |
 | NeurIPS 2025           | [Mitra: Mixed Synthetic Priors for Enhancing Tabular Foundation Models](https://www.amazon.science/blog/mitra-mixed-synthetic-priors-for-enhancing-tabular-foundation-models) | [Code](https://huggingface.co/autogluon/mitra-classifier)    |
 | NeurIPS 2025           | [Effortless, Simulation-Efficient Bayesian Inference using Tabular Foundation Models](https://arxiv.org/abs/2504.17660) | [Code](https://github.com/mackelab/npe-pfn)                  |
 | NeurIPS 2025           | [Do-PFN: In-context Learning for Causal Effect Estimation](https://arxiv.org/abs/2506.06039) | [Code](https://github.com/jr2021/Do-PFN)                     |
@@ -309,6 +310,7 @@ This work established PFNs as a new family of **foundation models for structured
 | Repository                                                   | Description                                                  |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | **[`automl/PFNs`](https://github.com/automl/PFNs)**          | Canonical PFN implementation; synthetic task generation, Bayesian inference via transformers. |
+| **[`google-research/tabfm`](https://github.com/google-research/tabfm)** | A pretrained tabular foundation model developed by Google Research for tabular data regression and classification. |
 | **[`PriorLabs/TabPFN`](https://github.com/PriorLabs/TabPFN)** | Official Tabular PFN implementation (classification + regression) |
 | **[`automl/nanoTabPFN`](https://github.com/automl/nanoTabPFN)** | Lightweight and educational reimplementation of TabPFN       |
 | **[`PriorLabs/tabpfn-extensions`](https://github.com/PriorLabs/tabpfn-extensions)** | Extensions: interpretability, more classes, imputation, and analysis tools |
