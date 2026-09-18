@@ -83,6 +83,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue        | Title                                                        | Code                                                         |
 | :----------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| arXiv 2026 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://arxiv.org/abs/2609.17488) | [Code](https://github.com/limix-ldm/LimiX) |
 | arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
 | arXiv 2026 | [EXAONE Tabular 1.0 : Technical Report](https://arxiv.org/abs/2608.25774) | [Code](https://github.com/LGAI-Research/EXAONE-Tabular) |
 | arXiv 2026   | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN)                  |
@@ -125,10 +126,10 @@ This work established PFNs as a new family of **foundation models for structured
 | ICML 2026  | [GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489) | [Code](https://github.com/yandex-research/graphpfn) |
 | arXiv 2026 | [TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models](https://arxiv.org/abs/2602.08592) | —                                                   |
 | WWW 2026   | [Tabular Foundation Models are Strong Graph Anomaly Detectors](https://arxiv.org/abs/2601.17301) | [Code](https://github.com/Cloudy1225/TFM4GAD)       |
+| ICLR 2026              | [Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://openreview.net/forum?id=FmxRzlu0rT) | [Code](https://sites.google.com/view/nodepfn)                |
 | arXiv 2025 | [Can TabPFN Compete with GNNs for Node Classification via Graph Tabularization?](https://arxiv.org/pdf/2512.08798) | —                                                   |
 | arXiv 2025 | [Turning Tabular Foundation Models into Graph Foundation Models](https://arxiv.org/abs/2508.20906) | [Code](https://github.com/yandex-research/G2T-FM)   |
 | arXiv 2025 | [Bringing Graphs to the Table: Zero-shot Node Classification via Tabular Foundation Models](https://arxiv.org/abs/2509.07143) | [Code](https://github.com/ahayler/tag)              |
-| arXiv 2025 | [LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence](https://arxiv.org/abs/2509.03505) | [Code](https://github.com/limix-ldm/LimiX)          |
 
 ### On Relational Databases
 
@@ -138,7 +139,7 @@ This work established PFNs as a new family of **foundation models for structured
 | ICML 2026  | [No Need to Train Your RDB Foundation Model](https://arxiv.org/abs/2602.13697) | [Code](https://github.com/HKUSHXLab/rdblearn)   |
 | ICML 2026  | [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](https://arxiv.org/abs/2603.03805) | [Code](https://github.com/MuLabPKU/RDBPFN)      |
 | ICML 2026  | [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](https://arxiv.org/abs/2602.04029) | [Code](https://github.com/snap-stanford/plurel) |
-| TaDA @ VLDB 2026  | [Curriculum Matters: Data-Efficient Relational PFN Pretraining with Synthetic Data](https://arxiv.org/abs/2607.29120) | -|
+| TaDA @ VLDB 2026  | [Curriculum Matters: Data-Efficient Relational PFN Pretraining with Synthetic Data](https://arxiv.org/abs/2607.29120) | — |
 
 ### On Causal 
 
@@ -165,7 +166,9 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                  | Title                                                        | Code                                                         |
 | :--------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| arXiv 2026 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://arxiv.org/abs/2609.17488) | [Code](https://github.com/limix-ldm/LimiX) |
 | arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
+| arXiv 2026 | [EXAONE Tabular 1.0 : Technical Report](https://arxiv.org/abs/2608.25774) | [Code](https://github.com/LGAI-Research/EXAONE-Tabular) |
 | arXiv 2026 | [Understanding the Surprising Generalization Properties of Tabular Foundation Models](https://arxiv.org/abs/2608.17957) | — |
 | Nature Communications 2026 | [A multi-fidelity tabular prior-data fitted network model for accurate prediction and uncertainty quantification](https://www.nature.com/articles/s41467-026-75163-w) | [Code](https://github.com/Rockou/MFTabPFN)         |
 | FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
