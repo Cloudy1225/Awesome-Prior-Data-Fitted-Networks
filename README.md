@@ -51,6 +51,7 @@ This work established PFNs as a new family of **foundation models for structured
 | Nature     | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2025 | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2026 | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN) |
+| arXiv 2026 | [TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895) | [Code](https://github.com/PriorLabs/TabPFN) |
 
 **Please see the [Foundation Models for Structured Data Workshop](https://icml-structured-fm-workshop.github.io) for recent progress.**
 
@@ -83,6 +84,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue        | Title                                                        | Code                                                         |
 | :----------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| arXiv 2026 | [TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2026 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://arxiv.org/abs/2609.17488) | [Code](https://github.com/limix-ldm/LimiX) |
 | arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
 | arXiv 2026 | [EXAONE Tabular 1.0 : Technical Report](https://arxiv.org/abs/2608.25774) | [Code](https://github.com/LGAI-Research/EXAONE-Tabular) |
@@ -166,6 +168,7 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                  | Title                                                        | Code                                                         |
 | :--------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| arXiv 2026 | [TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2026 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://arxiv.org/abs/2609.17488) | [Code](https://github.com/limix-ldm/LimiX) |
 | arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
 | arXiv 2026 | [EXAONE Tabular 1.0 : Technical Report](https://arxiv.org/abs/2608.25774) | [Code](https://github.com/LGAI-Research/EXAONE-Tabular) |
