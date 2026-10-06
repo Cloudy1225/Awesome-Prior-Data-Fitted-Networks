@@ -84,6 +84,18 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue        | Title                                                        | Code                                                         |
 | :----------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| NeurIPS 2026 | [Auditing Privacy Leakage in Tabular Foundation Model Embeddings](https://openreview.net/forum?id=qLsP2gDvC0) | [Code](https://github.com/sprintml/PrivacyCliff) |
+| NeurIPS 2026 | [Benchmarking Attention for Tabular Foundation Models](https://arxiv.org/abs/2609.31306) | [Code](https://github.com/SAP-samples/tabular-attention-benchmark) |
+| NeurIPS 2026 | [Beyond IID: How General Are Tabular Foundation Models, Really?](https://arxiv.org/abs/2606.30410) | — |
+| NeurIPS 2026 | [CRUMB: Efficient Prior Fitted Network Inference via Distributionally Matched Context Batching](https://arxiv.org/abs/2606.11473) | — |
+| NeurIPS 2026 | [FlexTab: A Flexible Encoder-Decoder Architecture for In-Context Learning Across Diverse Tabular Tasks](https://arxiv.org/abs/2606.30336) | [Code](https://github.com/SAP-samples/flextab) |
+| NeurIPS 2026 | [RAD-TFM: Robust and Domain-Adapted Tabular Foundation Models](https://openreview.net/forum?id=6dfLwFHIwj) | — |
+| NeurIPS 2026 | [TabClustPFN: A Prior-Fitted Network for Tabular Data Clustering](https://arxiv.org/abs/2601.21656) | [Code](https://github.com/Tianqi-Zhao/TabClustPFN) |
+| NeurIPS 2026 | [Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424) | — |
+| NeurIPS 2026 | [Understanding the Surprising Generalization Properties of Tabular Foundation Models](https://arxiv.org/abs/2608.17957) | — |
+| NeurIPS 2026 | [When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models](https://openreview.net/forum?id=ixQvsT5Hku) | — |
+| arXiv 2026 | [TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models](https://arxiv.org/abs/2609.37989) | — |
+| arXiv 2026 | [TabFM: A Zero-Shot Foundation Model for Tabular Data](https://arxiv.org/abs/2609.37959) | [Code](https://github.com/google-research/tabfm) |
 | arXiv 2026 | [TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2026 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://arxiv.org/abs/2609.17488) | [Code](https://github.com/limix-ldm/LimiX) |
 | arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
@@ -109,6 +121,8 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                | Title                                                        | Code                                                    |
 | :------------------- | :----------------------------------------------------------- | :------------------------------------------------------ |
+| NeurIPS 2026         | [DynaPFN: Zero-Shot Dynamical System Forecasting with Tabular Prior-Fitted Networks](https://openreview.net/forum?id=m581slK2rD) | —                                                       |
+| NeurIPS 2026         | [TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502) | [Code](https://github.com/automl/TempoPFN)              |
 | TSALM @ ICLR 2026    | [Interventional Time Series Priors for Causal Foundation Models](https://arxiv.org/abs/2603.11090) | [Code](https://github.com/thummd/CausalTimePrior)       |
 | ICLR 2026            | [CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data](https://arxiv.org/abs/2508.02879) | [Code](https://github.com/ShifengXIE/CauKer)            |
 | arXiv 2025           | [From Tables to Time: How TabPFN-v2 Outperforms Specialized Time Series Forecasting Models](https://arxiv.org/abs/2501.02945) | [Code](https://github.com/PriorLabs/tabpfn-time-series) |
@@ -147,6 +161,8 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue        | Title                                                        | Code                                                   |
 | :----------- | :----------------------------------------------------------- | :----------------------------------------------------- |
+| NeurIPS 2026 | [Learning Causal Orderings for In-Context Tabular Prediction](https://arxiv.org/abs/2605.22335) | — |
+| NeurIPS 2026 | [MapPFN: Learning Causal Perturbation Maps in Context](https://arxiv.org/abs/2601.21092) | [Code](https://github.com/marvinsxtr/MapPFN) |
 | ICML 2026 | [Unveiling Prior-Data Fitted Networks on Causal Effect Estimation: Pre-Training or Fine-Tuning](https://openreview.net/forum?id=YjPDsCH5zg) | — |
 | ICML 2026    | [Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](https://arxiv.org/abs/2603.12037) | [Code](https://github.com/Valentyn1997/freq-cons-pfns) |
 | ICLR 2026    | [Foundation Models for Causal Inference via Prior-Data Fitted Networks](https://arxiv.org/abs/2506.10914) | [Code](https://github.com/yccm/CausalFM)               |
@@ -159,8 +175,10 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue | Title | Code |
 | :---- | :---- | :--- |
+| NeurIPS 2026 | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://openreview.net/forum?id=3SCmcBS34S) | — |
+| NeurIPS 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code](https://github.com/rgklab/SurvivalPFN) |
+| NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://openreview.net/forum?id=3qspmxVnC1) | — |
 | FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
-| FMSD @ ICML 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code](https://github.com/rgklab/SurvivalPFN) |
 | ICLR 2025              | [KinPFN: Bayesian Approximation of RNA Folding Kinetics using Prior-Data Fitted Networks](https://openreview.net/forum?id=E1m5yGMOiV) | [Code](https://github.com/automl/KinPFN)                     |
 | TCBBIO 2025            | [GPFN: Prior-Data Fitted Networks for Genomic Prediction](https://www.biorxiv.org/content/10.1101/2023.09.20.558648) | [Code](https://github.com/jubbens/gpfn)                      |
 
@@ -168,14 +186,33 @@ This work established PFNs as a new family of **foundation models for structured
 
 | Venue                  | Title                                                        | Code                                                         |
 | :--------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| NeurIPS 2026 | [Auditing Privacy Leakage in Tabular Foundation Model Embeddings](https://openreview.net/forum?id=qLsP2gDvC0) | [Code](https://github.com/sprintml/PrivacyCliff) |
+| NeurIPS 2026 | [Benchmarking Attention for Tabular Foundation Models](https://arxiv.org/abs/2609.31306) | [Code](https://github.com/SAP-samples/tabular-attention-benchmark) |
+| NeurIPS 2026 | [Beyond IID: How General Are Tabular Foundation Models, Really?](https://arxiv.org/abs/2606.30410) | — |
+| NeurIPS 2026 | [CRUMB: Efficient Prior Fitted Network Inference via Distributionally Matched Context Batching](https://arxiv.org/abs/2606.11473) | — |
+| NeurIPS 2026 | [DynaPFN: Zero-Shot Dynamical System Forecasting with Tabular Prior-Fitted Networks](https://openreview.net/forum?id=m581slK2rD) | — |
+| NeurIPS 2026 | [FlexTab: A Flexible Encoder-Decoder Architecture for In-Context Learning Across Diverse Tabular Tasks](https://arxiv.org/abs/2606.30336) | [Code](https://github.com/SAP-samples/flextab) |
+| NeurIPS 2026 | [Learning Causal Orderings for In-Context Tabular Prediction](https://arxiv.org/abs/2605.22335) | — |
+| NeurIPS 2026 | [MapPFN: Learning Causal Perturbation Maps in Context](https://arxiv.org/abs/2601.21092) | [Code](https://github.com/marvinsxtr/MapPFN) |
+| NeurIPS 2026 | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://openreview.net/forum?id=3SCmcBS34S) | — |
+| NeurIPS 2026 | [RAD-TFM: Robust and Domain-Adapted Tabular Foundation Models](https://openreview.net/forum?id=6dfLwFHIwj) | — |
+| NeurIPS 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code](https://github.com/rgklab/SurvivalPFN) |
+| NeurIPS 2026 | [TabClustPFN: A Prior-Fitted Network for Tabular Data Clustering](https://arxiv.org/abs/2601.21656) | [Code](https://github.com/Tianqi-Zhao/TabClustPFN) |
+| NeurIPS 2026 | [TabK: Amortized Bayesian Estimation of the Number of Clusters in Tabular Data](https://openreview.net/forum?id=vH1EUKvrHt) | — |
+| NeurIPS 2026 | [Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424) | — |
+| NeurIPS 2026 | [TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502) | [Code](https://github.com/automl/TempoPFN) |
+| NeurIPS 2026 | [Thompson Sampling using Prior-fitted Diffusion Transformers](https://openreview.net/forum?id=hRNiI7uR2f) | — |
+| NeurIPS 2026 | [Understanding the Surprising Generalization Properties of Tabular Foundation Models](https://arxiv.org/abs/2608.17957) | — |
+| NeurIPS 2026 | [When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models](https://openreview.net/forum?id=ixQvsT5Hku) | — |
+| NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://openreview.net/forum?id=3qspmxVnC1) | — |
+| arXiv 2026 | [TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models](https://arxiv.org/abs/2609.37989) | — |
+| arXiv 2026 | [TabFM: A Zero-Shot Foundation Model for Tabular Data](https://arxiv.org/abs/2609.37959) | [Code](https://github.com/google-research/tabfm) |
 | arXiv 2026 | [TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2026 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://arxiv.org/abs/2609.17488) | [Code](https://github.com/limix-ldm/LimiX) |
 | arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
 | arXiv 2026 | [EXAONE Tabular 1.0 : Technical Report](https://arxiv.org/abs/2608.25774) | [Code](https://github.com/LGAI-Research/EXAONE-Tabular) |
-| arXiv 2026 | [Understanding the Surprising Generalization Properties of Tabular Foundation Models](https://arxiv.org/abs/2608.17957) | — |
 | Nature Communications 2026 | [A multi-fidelity tabular prior-data fitted network model for accurate prediction and uncertainty quantification](https://www.nature.com/articles/s41467-026-75163-w) | [Code](https://github.com/Rockou/MFTabPFN)         |
 | FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
-| FMSD @ ICML 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code](https://github.com/rgklab/SurvivalPFN) |
 | KDD 2026               | [StablePFN: Stable Prediction with Causal-Aware Tabular Foundation Model](https://dl.acm.org/doi/10.1145/3770855.3818030) | [Code](https://github.com/GuanZhengkang/StablePFN)           |
 | KDD 2026               | [Node4All: Learning Node Representation Beyond Datasets](https://github.com/dooho00/node4all/blob/main/docs/node4all_kdd_2026.pdf) | [Code](https://github.com/dooho00/node4all)                  |
 | KDD 2026               | [One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets](https://arxiv.org/abs/2606.15752) | [Code](https://zenodo.org/records/20403804)                  |
@@ -208,8 +245,6 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026             | [FoMo X: Modular Explainability Signals for Outlier Detection Foundation Models](https://arxiv.org/abs/2603.17570) | [Code](https://github.com/psorus/FoMo-X)                     |
 | arXiv 2026             | [Improving TabPFN's Synthetic Data Generation by Integrating Causal Structure](https://arxiv.org/abs/2603.10254) | [Code](https://github.com/DavideTugnoli/tabpfn-causal-synthetic) |
 | arXiv 2026             | [Amortized Spectral Kernel Discovery via Prior-Data Fitted Network](https://arxiv.org/abs/2601.21731) | —                                                            |
-| arXiv 2026             | [TabClustPFN: A Prior-Fitted Network for Tabular Data Clustering](https://arxiv.org/abs/2601.21656) | [Code](https://github.com/Tianqi-Zhao/TabClustPFN)           |
-| arXiv 2026             | [MapPFN: Learning Causal Perturbation Maps in Context](https://github.com/marvinsxtr/MapPFN) | [Code](https://github.com/marvinsxtr/MapPFN)                 |
 | TSALM @ ICLR 2026      | [Interventional Time Series Priors for Causal Foundation Models](https://arxiv.org/abs/2603.11090) | [Code](https://github.com/thummd/CausalTimePrior)            |
 | arXiv 2026             | [Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802) | —                                                            |
 | arXiv 2026             | [TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models](https://arxiv.org/abs/2602.08592) | —                                                            |
@@ -229,7 +264,6 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2025             | [Amortized Causal Discovery with Prior-Fitted Networks](https://arxiv.org/abs/2512.11840) | —                                                            |
 | arXiv 2025             | [Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning](https://arxiv.org/abs/2511.02818) | [Code](https://github.com/Lexsi-Labs/Orion-MSP)              |
 | arXiv 2025             | [Transformers Can Do Bayesian Clustering](https://arxiv.org/abs/2510.24318) | [Code](https://github.com/pbhaskaran/Cluster-PFN)            |
-| OpenReview             | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://openreview.net/forum?id=z7ilspv4uH) | —                                                            |
 | OpenReview             | [Task-Aligned Attention Retrieval for Scaling Tabular Foundation Models](https://openreview.net/forum?id=qBMNsGiE3u) | —                                                            |
 | OpenReview             | [Large-Scale Pretraining Offers Modest Benefits for Tabular Transfer Learning](https://openreview.net/forum?id=G5zJaSxMGN) | —                                                            |
 | OpenReview             | [RaBEL: Scale-Aware Radial-Basis Embeddings for Tabular Foundation Models](https://openreview.net/forum?id=odoTDh3QUk) | —                                                            |
