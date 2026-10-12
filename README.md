@@ -96,6 +96,7 @@ This work established PFNs as a new family of **foundation models for structured
 | NeurIPS 2026 | [When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models](https://openreview.net/forum?id=ixQvsT5Hku) | — |
 | arXiv 2026 | [TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models](https://arxiv.org/abs/2609.37989) | — |
 | arXiv 2026 | [TabFM: A Zero-Shot Foundation Model for Tabular Data](https://arxiv.org/abs/2609.37959) | [Code](https://github.com/google-research/tabfm) |
+| arXiv 2026 | [Causilo Technical Report](https://arxiv.org/abs/2609.22866) | [Code](https://github.com/nums-ai/causilo) |
 | arXiv 2026 | [TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2026 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://arxiv.org/abs/2609.17488) | [Code](https://github.com/limix-ldm/LimiX) |
 | arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
@@ -207,6 +208,7 @@ This work established PFNs as a new family of **foundation models for structured
 | NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://openreview.net/forum?id=3qspmxVnC1) | — |
 | arXiv 2026 | [TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models](https://arxiv.org/abs/2609.37989) | — |
 | arXiv 2026 | [TabFM: A Zero-Shot Foundation Model for Tabular Data](https://arxiv.org/abs/2609.37959) | [Code](https://github.com/google-research/tabfm) |
+| arXiv 2026 | [Causilo Technical Report](https://arxiv.org/abs/2609.22866) | [Code](https://github.com/nums-ai/causilo) |
 | arXiv 2026 | [TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895) | [Code](https://github.com/PriorLabs/TabPFN) |
 | arXiv 2026 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://arxiv.org/abs/2609.17488) | [Code](https://github.com/limix-ldm/LimiX) |
 | arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
