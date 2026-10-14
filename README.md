@@ -7,6 +7,7 @@ A curated collection of papers, repositories, and resources on **Prior-data Fitt
 - [What are PFNs?](#what-are-pfns)
   - [Example — TabPFN](#example--tabpfn)
 - [Highlights](#highlights)
+- [Technical Reports](#technical-reports)
 - [Foundations](#foundations)
 - [Papers](#papers)
   - [On Tabular Data](#on-tabular-data)
@@ -54,6 +55,33 @@ This work established PFNs as a new family of **foundation models for structured
 | arXiv 2026 | [TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895) | [Code](https://github.com/PriorLabs/TabPFN) |
 
 **Please see the [Foundation Models for Structured Data Workshop](https://icml-structured-fm-workshop.github.io) for recent progress.**
+
+
+
+## Technical Reports
+
+The tabular foundation model technical reports.
+
+| Report | Organization | Date | Link | Code |
+| :----- | :----------- | :--- | :--- | :--- |
+| TabFM | Google Research | 2026-09-29 | [arXiv:2609.37959](https://arxiv.org/abs/2609.37959) | [Code](https://github.com/google-research/tabfm) |
+| NVIDIA Kumo Tabular | NVIDIA | 2026-09-29 | [HF Blog](https://huggingface.co/blog/nvidia/kumo-tabular) | [Code](https://github.com/NVIDIA/structured-data-models) |
+| Causilo | nums-ai | 2026-09-19 | [arXiv:2609.22866](https://arxiv.org/abs/2609.22866) | [Code](https://github.com/nums-ai/causilo) |
+| LimiX-2 | Stable AI & Tsinghua University | 2026-09-15 | [arXiv:2609.17488](https://arxiv.org/abs/2609.17488) | [Code](https://github.com/limix-ldm/LimiX) |
+| TabPFN-3.5 | Prior Labs | 2026-09-15 | [arXiv:2609.17895](https://arxiv.org/abs/2609.17895) | [Code](https://github.com/PriorLabs/TabPFN) |
+| Xiaomi-TabLDM | Xiaomi | 2026-09-03 | [arXiv:2609.03880](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
+| Mitra-v2 | Amazon | 2026-09-03 | [arXiv:2609.04540](https://arxiv.org/abs/2609.04540) | [Code](https://huggingface.co/autogluon/mitra-classifier-2) |
+| EXAONE Tabular 1.0 | LG AI Research | 2026-08-26 | [arXiv:2608.25774](https://arxiv.org/abs/2608.25774) | [Code](https://github.com/LGAI-Research/EXAONE-Tabular) |
+| LimiX-2M | Stable AI & Tsinghua University | 2026-06-03 | [arXiv:2606.04485](https://arxiv.org/abs/2606.04485) | [Code](https://github.com/limix-ldm-ai/LimiX) |
+| TabPFN-3 | Prior Labs | 2026-05-13 | [arXiv:2605.13986](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN) |
+| TabICLv2 | Inria | 2026-02-11 | [arXiv:2602.11139](https://arxiv.org/abs/2602.11139) | [Code](https://github.com/soda-inria/tabicl) |
+| TabPFN-2.5 | Prior Labs | 2025-11-11 | [arXiv:2511.08667](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN) |
+| Mitra | Amazon | 2025-10-24 | [arXiv:2510.21204](https://arxiv.org/abs/2510.21204) | [Code](https://huggingface.co/autogluon/mitra-classifier) |
+| LimiX (LimiX-16M / LimiX-2M) | Stable AI & Tsinghua University | 2025-09-03 | [arXiv:2509.03505](https://arxiv.org/abs/2509.03505) | [Code](https://github.com/limix-ldm/LimiX) |
+| TabICL | Inria | 2025-02-08 | [arXiv:2502.05564](https://arxiv.org/abs/2502.05564) | [Code](https://github.com/soda-inria/tabicl) |
+| TabPFN v2 | Prior Labs / University of Freiburg | 2025-01-08 | [Nature](https://www.nature.com/articles/s41586-024-08328-6) | [Code](https://github.com/PriorLabs/TabPFN) |
+| TabDPT | Layer 6 AI | 2024-10-23 | [arXiv:2410.18164](https://arxiv.org/abs/2410.18164) | [Code](https://github.com/layer6ai-labs/TabDPT-inference) |
+| TabPFN v1 | Prior Labs / University of Freiburg | 2022-07-05 | [arXiv:2207.01848](https://arxiv.org/abs/2207.01848) | [Code](https://github.com/PriorLabs/TabPFN) |
 
 
 
