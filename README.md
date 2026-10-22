@@ -166,6 +166,9 @@ The tabular foundation model technical reports.
 
 | Venue      | Title                                                        | Code                                                |
 | :--------- | :----------------------------------------------------------- | :-------------------------------------------------- |
+| arXiv 2026 | [Towards One-for-All Foundation Model for Attributed Graph Clustering](https://arxiv.org/abs/2610.07778) | [Code](https://github.com/Cloudy1225/OFAG)          |
+| arXiv 2026 | [To Learn is to Wander: Learning Across Graphs and Tasks with Random Walks](https://arxiv.org/abs/2610.06694) | [Code](https://github.com/louistichelman/wander-gfm) |
+| arXiv 2026 | [Message Passing Does More with Less for In-Context Learning on Graphs](https://arxiv.org/abs/2609.37057) | [Code](https://github.com/nums-ai/ephris)           |
 | KDD 2026   | [Node4All: Learning Node Representation Beyond Datasets](https://github.com/dooho00/node4all/blob/main/docs/node4all_kdd_2026.pdf) | [Code](https://github.com/dooho00/node4all)         |
 | arXiv 2026 | [KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907) | [Code](https://github.com/HKUST-KnowComp/KGPFN)     |
 | ICML 2026  | [GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489) | [Code](https://github.com/yandex-research/graphpfn) |
