@@ -18,7 +18,6 @@ A curated collection of papers, repositories, and resources on **Prior-data Fitt
   - [On AI4Science](#on-ai4science)
   - [All Papers](#all-papers)
 - [GitHub Repositories](#github-repositories)
-- [Other Applications](#other-applications)
 - [Contributing](#contributing)
 - [License & Credits](#license--credits)
 
@@ -135,6 +134,7 @@ The tabular foundation model technical reports.
 | WWW 2026     | [Tabular Foundation Models are Strong Graph Anomaly Detectors](https://arxiv.org/abs/2601.17301) | [Code](https://github.com/Cloudy1225/TFM4GAD)                |
 | arXiv 2025   | [nanoTabPFN: A Lightweight and Educational Reimplementation of TabPFN](https://arxiv.org/abs/2511.03634) | [Code](https://github.com/automl/nanoTabPFN)                 |
 | arXiv 2025   | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN)                  |
+| arXiv 2025   | [TabTune: A Unified Library for Inference and Fine-Tuning Tabular Foundation Models](https://arxiv.org/abs/2511.02802) | [Code](https://github.com/Lexsi-Labs/TabTune)                |
 | arXiv 2025   | [LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence](https://arxiv.org/abs/2509.03505) | [Code](https://github.com/limix-ldm/LimiX)                   |
 | arXiv 2025   | [On Finetuning Tabular Foundation Models](https://arxiv.org/abs/2506.08982) | [Code](https://github.com/yandex-research/tabpfn-finetuning) |
 | NeurIPS 2025 | [TabSTAR: A Tabular Foundation Model for Tabular Data with Text Fields](https://arxiv.org/abs/2505.18125) | [Code](https://github.com/alanarazi7/TabSTAR)    |
@@ -150,6 +150,7 @@ The tabular foundation model technical reports.
 
 | Venue                | Title                                                        | Code                                                    |
 | :------------------- | :----------------------------------------------------------- | :------------------------------------------------------ |
+| Mistral 2026         | [Timestral: Mistral's Family of Time-Series Foundation Models](https://mistral.ai/news/timestral/) | [Code](https://github.com/mistralai/timestral)        |
 | NeurIPS 2026         | [DynaPFN: Zero-Shot Dynamical System Forecasting with Tabular Prior-Fitted Networks](https://openreview.net/forum?id=m581slK2rD) | [Code](https://github.com/chiararov/DynaPFN)                                                       |
 | NeurIPS 2026         | [TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502) | [Code](https://github.com/automl/TempoPFN)              |
 | TSALM @ ICLR 2026    | [Interventional Time Series Priors for Causal Foundation Models](https://arxiv.org/abs/2603.11090) | [Code](https://github.com/thummd/CausalTimePrior)       |
@@ -296,6 +297,7 @@ The tabular foundation model technical reports.
 | arXiv 2025             | [TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models](https://arxiv.org/abs/2511.08667) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2025             | [Amortized Causal Discovery with Prior-Fitted Networks](https://arxiv.org/abs/2512.11840) | —                                                            |
 | arXiv 2025             | [Orion-MSP: Multi-Scale Sparse Attention for Tabular In-Context Learning](https://arxiv.org/abs/2511.02818) | [Code](https://github.com/Lexsi-Labs/Orion-MSP)              |
+| arXiv 2025             | [TabTune: A Unified Library for Inference and Fine-Tuning Tabular Foundation Models](https://arxiv.org/abs/2511.02802) | [Code](https://github.com/Lexsi-Labs/TabTune)                |
 | arXiv 2025             | [Transformers Can Do Bayesian Clustering](https://arxiv.org/abs/2510.24318) | [Code](https://github.com/pbhaskaran/Cluster-PFN)            |
 | OpenReview             | [Task-Aligned Attention Retrieval for Scaling Tabular Foundation Models](https://openreview.net/forum?id=qBMNsGiE3u) | —                                                            |
 | OpenReview             | [Large-Scale Pretraining Offers Modest Benefits for Tabular Transfer Learning](https://openreview.net/forum?id=G5zJaSxMGN) | —                                                            |
@@ -394,33 +396,9 @@ The tabular foundation model technical reports.
 | **[`abacusai/ForecastPFN`](https://github.com/abacusai/ForecastPFN)** | PFN for zero-shot time-series forecasting                    |
 | **[`soda-inria/tabicl`](https://github.com/soda-inria/tabicl)** | a more scalable tabular foundation model                     |
 | **[`limix-ldm/LimiX`](https://github.com/limix-ldm/LimiX)**  | LimiX: a tabular foundation model generalizing TabPFN        |
+| **[`Lexsi-Labs/TabTune`](https://github.com/Lexsi-Labs/TabTune)** | Unified scikit-learn-compatible library for inference and fine-tuning of tabular foundation models (zero-shot, meta-learning, SFT, PEFT) with calibration/fairness evaluation |
 | **[`autogluon/tabrepo`](https://github.com/autogluon/tabrepo)** | Living benchmark for tabular ML; includes foundation-model baselines |
 | **[`autogluon/autogluon`](https://github.com/autogluon/autogluon)** | End-to-end AutoML framework supporting tabular, time-series, and multimodal data; often used as benchmark in PFN/TabPFN work |
-
-
-
-## Other Applications
-
-1. [Predicting Early Outcomes of Prostatic Artery Embolization Using n-Butyl Cyanoacrylate Liquid Embolic Agent: A Machine Learning Study](https://www.mdpi.com/2075-4418/15/11/1351)
-2. [Virtual Screening of Natural Anti-Senescent Compounds Based on Sq-TabPFN](https://ieeexplore.ieee.org/document/10864333)
-3. [From Rows to Yields: How Foundation Models for Tabular Data Simplify Crop Yield Prediction](https://arxiv.org/abs/2506.19046)
-4. [Uncertainty-Aware Tabular Prediction: Evaluating VBLL-Enhanced TabPFN in Safety-Critical Medical Data](https://arxiv.org/abs/2509.10048)
-5. [Early Fault Classification in Rotating Machinery With Limited Data Using TabPFN](https://ieeexplore.ieee.org/document/10318062)
-6. [Improved Ethereum Fraud Detection Mechanism with Explainable Tabular Transformer Model](https://ieeexplore.ieee.org/document/10835625)
-7. [Fast and Accurate Zero-Training Classification for Tabular Engineering Data](https://arxiv.org/abs/2401.06948)
-8. [A Fast and Reliable Transformer-Based TabPFN Model for Liver Disease Diagnosis](https://www.cureusjournals.com/articles/4072-a-fast-and-reliable-transformer-based-tabpfn-model-for-liver-disease-diagnosis#!/)
-9. [Machine learning and radiomics for ventricular tachyarrhythmia prediction in hypertrophic cardiomyopathy: insights from an MRI-based analysis](https://pubmed.ncbi.nlm.nih.gov/39350610/)
-10. [Explainable Classification for Non-Small Cell Lung Cancer Based on Positron Emission Tomography Features and Clinical Data](https://ieeexplore.ieee.org/abstract/document/10345893)
-11. [Class-Imbalanced-Aware Adaptive Dataset Distillation for Scalable Pretrained Model on Credit Scoring](https://arxiv.org/abs/2501.10677)
-12. [Fault Diagnosis of Slewing Bearing Using Audible Sound Signal Based on Time Generative Adversarial Network–TabPFN Method](https://doi.org/10.1115/1.4068223)
-13. [A machine learning-based approach for individualized prediction of short-term outcomes after anterior cervical corpectomy](https://pubmed.ncbi.nlm.nih.gov/39113482/)
-14. [Foundation Models for Cybersecurity: A Comprehensive Multi-Modal Evaluation of TabPFN and TabICL for Tabular Intrusion Detection](https://www.mdpi.com/2079-9292/14/19/3792)
-15. [TACO: TabPFN Augmented Causal Outcomes for Early Detection of Long COVID](https://www.medrxiv.org/content/10.1101/2025.10.02.25337138)
-16. [Tabular Data with Class Imbalance: Predicting Electric Vehicle Crash Severity with Pretrained Transformers (TabPFN) and Mamba-Based Models](https://arxiv.org/abs/2509.11449)
-17. [Tabular prior-data fitted network for urban air temperature inference and high temperature risk assessment](https://www.sciencedirect.com/science/article/abs/pii/S2210670725003609)
-18. [Kriging prior Regression: A Case for Kriging-Based Spatial Features with TabPFN in Soil Mapping](https://arxiv.org/abs/2509.09408)
-19. [Uncertainty-Aware Tabular Prediction: Evaluating VBLL-Enhanced TabPFN in Safety-Critical Medical Data](https://arxiv.org/abs/2509.10048)
-20. [Tabular foundation model for GEOAI benchmark problems BM/AirportSoilProperties/2/2025](https://arxiv.org/abs/2509.03191)
 
 
 
