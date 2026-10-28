@@ -11,6 +11,7 @@ A curated collection of papers, repositories, and resources on **Prior-data Fitt
 - [Foundations](#foundations)
 - [Papers](#papers)
   - [On Tabular Data](#on-tabular-data)
+  - [Tabular Benchmarks](#tabular-benchmarks)
   - [On Time Series](#on-time-series)
   - [On Graphs](#on-graphs)
   - [On Relational Databases](#on-relational-databases)
@@ -100,6 +101,7 @@ The tabular foundation model technical reports.
 ## Papers
 
 - [On Tabular Data](#on-tabular-data)
+- [Tabular Benchmarks](#tabular-benchmarks)
 - [On Time Series](#on-time-series)
 - [On Graphs](#on-graphs)
 - [On Relational Databases](#on-relational-databases)
@@ -145,6 +147,36 @@ The tabular foundation model technical reports.
 | ICML 2025    | [TabICL: A Tabular Foundation Model for In-Context Learning on Large Data](https://arxiv.org/abs/2502.05564) | [Code](https://github.com/soda-inria/tabicl)                 |
 | Nature 2025  | [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | ICLR 2023    | [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/abs/2207.01848) | [Code](https://github.com/PriorLabs/TabPFN)                  |
+
+### Tabular Benchmarks
+
+*Curated benchmarks and evaluation suites for tabular ML.*
+
+| Venue        | Title                                                        | Code                                                         |
+| :----------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| arXiv 2021   | [Tabular Data: Deep Learning is Not All You Need](https://arxiv.org/abs/2106.03253) | —                                                   |
+| NeurIPS 2022 | [Why do tree-based models still outperform deep learning on typical tabular data?](https://arxiv.org/abs/2207.08815) | [Code](https://github.com/LeoGrin/tabular-benchmark)         |
+| NeurIPS 2023 | [Benchmarking Distribution Shift in Tabular Data with TableShift](https://arxiv.org/abs/2312.07577) | [Code](https://github.com/mlfoundations/tableshift)          |
+| NeurIPS 2024 | [TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases](https://arxiv.org/abs/2408.07579) | [Code](https://github.com/serval-uni-lu/tabularbench)        |
+| NeurIPS 2024 | [A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data](https://arxiv.org/abs/2407.02112) | [Code](https://github.com/atschalz/dc_tabeval)               |
+| ICLR 2025    | [TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks](https://arxiv.org/abs/2406.19380) | [Code](https://github.com/yandex-research/tabred)            |
+| JMLR 2025    | [TALENT: A Tabular Analytics and Learning Toolbox](https://arxiv.org/abs/2407.04057) | [Code](https://github.com/qile2000/LAMDA-TALENT)             |
+| ICML 2025    | [TabFSBench: Tabular Benchmark for Feature Shifts in Open Environments](https://arxiv.org/abs/2501.18935) | [Code](https://github.com/LAMDASZ-ML/TabFSBench)             |
+| NeurIPS 2025 | [TabArena: A Living Benchmark for Machine Learning on Tabular Data](https://arxiv.org/abs/2506.16791) | [Code](https://tabarena.ai)                                  |
+| NeurIPS 2025 | [CLIMB: Class-imbalanced Learning Benchmark on Tabular Data](https://arxiv.org/abs/2505.17451) | [Code](https://github.com/ZhiningLiu1998/imbalanced-ensemble) |
+| NeurIPS 2026 | [RamanBench: A Large-Scale Benchmark for Machine Learning on Raman Spectroscopy](https://arxiv.org/abs/2605.02003) | [Code](https://huggingface.co/spaces/HTW-KI-Werkstatt/RamanBench) |
+| NeurIPS 2026 | [MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image](https://arxiv.org/abs/2605.10616) | [Code](https://github.com/alanarazi7/MulTaBench)             |
+| NeurIPS 2026 | [STRABLE: Benchmarking Tabular Machine Learning with Strings](https://arxiv.org/abs/2605.12292) | [Code](https://github.com/soda-inria/strable)                |
+| NeurIPS 2026 | [TabPrep: Closing the Feature Engineering Gap in Tabular Benchmarks](https://arxiv.org/abs/2606.02384) | [Code](https://github.com/atschalz/tabprep)                  |
+| NeurIPS 2026 | [TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders](https://arxiv.org/abs/2606.09323) | [Code](https://github.com/LOGO-CUHKSZ/TRL-Bench)             |
+| NeurIPS 2026 | [Beyond IID: How General Are Tabular Foundation Models, Really?](https://arxiv.org/abs/2606.30410) | [Code](https://github.com/TabArena/data-foundry)             |
+| NeurIPS 2026 | [Benchmarking Attention for Tabular Foundation Models](https://arxiv.org/abs/2609.31306) | [Code](https://github.com/SAP-samples/tabular-attention-benchmark) |
+| NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://doi.org/10.64898/2026.09.25.754520) | —                                                            |
+| NeurIPS 2026 | [TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning](https://openreview.net/forum?id=4WpEeaOeGW) | —                                                            |
+| arXiv 2026   | [ScoringBench: A Benchmark for Evaluating Tabular Foundation Models with Proper Scoring Rules](https://arxiv.org/abs/2603.29928) | [Code](https://github.com/jonaslandsgesell/ScoringBench)     |
+| arXiv 2026   | [Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI](https://arxiv.org/abs/2608.16319) | [Code](https://github.com/PriorLabs/relarena)                |
+| arXiv 2026   | [TabBench-Bio: A Living Benchmark for Machine Learning on High-Dimensional Biomedical Tables](https://arxiv.org/abs/2609.07441) | [Code](https://tabbench-bio.eu)                              |
+| arXiv 2026   | [V4FinBench: Benchmarking Tabular Foundation Models, LLMs, and Standard Methods on Corporate Bankruptcy Prediction](https://arxiv.org/abs/2605.10896) | [Code](https://github.com/genwro-ai/V4FinBench)              |
 
 ### On Time Series
 
