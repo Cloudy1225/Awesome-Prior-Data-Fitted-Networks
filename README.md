@@ -95,6 +95,8 @@ The tabular foundation model technical reports.
 | NeurIPS 2023 | [Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection](https://arxiv.org/abs/2306.04637) | [Code](https://github.com/allenbai01/transformers-as-statisticians) |
 | ICML 2024    | [Is In-Context Learning in Large Language Models Bayesian? A Martingale Perspective](https://arxiv.org/abs/2406.00793) | [Code](https://github.com/meta-inf/bayes_icl)                |
 | ICML 2025    | [Can Transformers Learn Full Bayesian Inference in Context?](https://arxiv.org/abs/2501.16825) | [Code](https://github.com/ArikReuter/ICL_for_Full_Bayesian_Inference) |
+| ICML 2026    | [Transformers Can Learn Posterior Predictive Distribution In-context](https://proceedings.mlr.press/v306/kang26h.html) | [Code](https://github.com/hun-learning94/transformer-uq) |
+
 
 
 
@@ -174,6 +176,7 @@ The tabular foundation model technical reports.
 | NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://doi.org/10.64898/2026.09.25.754520) | —                                                            |
 | NeurIPS 2026 | [TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning](https://openreview.net/forum?id=4WpEeaOeGW) | —                                                            |
 | arXiv 2026   | [ScoringBench: A Benchmark for Evaluating Tabular Foundation Models with Proper Scoring Rules](https://arxiv.org/abs/2603.29928) | [Code](https://github.com/jonaslandsgesell/ScoringBench)     |
+| arXiv 2026   | [TabReliBench: Evaluating Tabular Foundation Models Beyond Predictive Accuracy](https://arxiv.org/abs/2610.13654) | [Code](https://github.com/Tianqi-Zhao/TabReliBench)     |
 | arXiv 2026   | [Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI](https://arxiv.org/abs/2608.16319) | [Code](https://github.com/PriorLabs/relarena)                |
 | arXiv 2026   | [TabBench-Bio: A Living Benchmark for Machine Learning on High-Dimensional Biomedical Tables](https://arxiv.org/abs/2609.07441) | [Code](https://tabbench-bio.eu)                              |
 | arXiv 2026   | [V4FinBench: Benchmarking Tabular Foundation Models, LLMs, and Standard Methods on Corporate Bankruptcy Prediction](https://arxiv.org/abs/2605.10896) | [Code](https://github.com/genwro-ai/V4FinBench)              |
@@ -277,6 +280,8 @@ The tabular foundation model technical reports.
 | arXiv 2026 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://arxiv.org/abs/2609.17488) | [Code](https://github.com/limix-ldm/LimiX) |
 | arXiv 2026 | [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](https://arxiv.org/abs/2609.03880) | [Code](https://github.com/xiaomi-research/xiaomi-tabldm) |
 | arXiv 2026 | [EXAONE Tabular 1.0 : Technical Report](https://arxiv.org/abs/2608.25774) | [Code](https://github.com/LGAI-Research/EXAONE-Tabular) |
+| arXiv 2026 | [Uncertainty Decomposition for Bayes-Filtered Transformers via Bayesian Predictive Inference](https://arxiv.org/abs/2602.04596) | [Code](https://github.com/weiyaw/ud4pfn) |
+| arXiv 2026 | [Architecture Alignment With Sparse Priors in Tabular Foundation Models](https://arxiv.org/abs/2609.36883) | [Code](https://github.com/Tianqi-Zhao/ArchitecturePriorTFMs) |
 | Nature Communications 2026 | [A multi-fidelity tabular prior-data fitted network model for accurate prediction and uncertainty quantification](https://www.nature.com/articles/s41467-026-75163-w) | [Code](https://github.com/Rockou/MFTabPFN)         |
 | FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
 | KDD 2026               | [StablePFN: Stable Prediction with Causal-Aware Tabular Foundation Model](https://dl.acm.org/doi/10.1145/3770855.3818030) | [Code](https://github.com/GuanZhengkang/StablePFN)           |
@@ -305,6 +310,8 @@ The tabular foundation model technical reports.
 | ICML 2026              | [GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489) | [Code](https://github.com/yandex-research/graphpfn)          |
 | ICML 2026              | [Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](https://arxiv.org/abs/2502.02463) | [Code](https://github.com/GWhittle110/distribution-transformers) |
 | ICML 2026              | [When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach](https://arxiv.org/abs/2605.19662) | —                                                            |
+| ICML 2026              | [Transformers Can Learn Posterior Predictive Distribution In-context](https://proceedings.mlr.press/v306/kang26h.html) | [Code](https://github.com/hun-learning94/transformer-uq) |
+| ICML 2026              | [TabMGP: Martingale Posterior with TabPFN](https://arxiv.org/abs/2510.25154) | [Code](https://github.com/weiyaw/tabmgp) |
 | arXiv 2026             | [Can Tabular Foundation Models Guide Exploration in Robot Policy Learning](https://arxiv.org/abs/2604.27667) | —                                                            |
 | CVPR 2026              | [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](https://arxiv.org/abs/2602.20223) | [Code](https://github.com/too-z/MultiModalPFN)               |
 | arXiv 2026             | [FEAT: A Linear-Complexity Foundation Model for Extremely Large Structured Data](https://arxiv.org/abs/2603.16513) | —                                                            |
