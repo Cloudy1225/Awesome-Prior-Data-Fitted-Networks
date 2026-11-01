@@ -202,6 +202,7 @@ The tabular foundation model technical reports.
 
 | Venue      | Title                                                        | Code                                                |
 | :--------- | :----------------------------------------------------------- | :-------------------------------------------------- |
+| arXiv 2026 | [Learning a Prior-Data Fitted Network for Graph Foundation Models via Structural Causal Model Priors](https://arxiv.org/abs/2610.38335) | [Code](https://anonymous.4open.science/r/GSCM-PFN-A3A3/) |
 | arXiv 2026 | [Towards One-for-All Foundation Model for Attributed Graph Clustering](https://arxiv.org/abs/2610.07778) | [Code](https://github.com/Cloudy1225/OFAG)          |
 | arXiv 2026 | [To Learn is to Wander: Learning Across Graphs and Tasks with Random Walks](https://arxiv.org/abs/2610.06694) | [Code](https://github.com/louistichelman/wander-gfm) |
 | arXiv 2026 | [Message Passing Does More with Less for In-Context Learning on Graphs](https://arxiv.org/abs/2609.37057) | [Code](https://github.com/nums-ai/ephris)           |
@@ -273,6 +274,7 @@ The tabular foundation model technical reports.
 | NeurIPS 2026 | [Understanding the Surprising Generalization Properties of Tabular Foundation Models](https://arxiv.org/abs/2608.17957) | — |
 | NeurIPS 2026 | [When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models](https://openreview.net/forum?id=ixQvsT5Hku) | — |
 | NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://openreview.net/forum?id=3qspmxVnC1) | — |
+| arXiv 2026 | [Learning a Prior-Data Fitted Network for Graph Foundation Models via Structural Causal Model Priors](https://arxiv.org/abs/2610.38335) | [Code](https://anonymous.4open.science/r/GSCM-PFN-A3A3/) |
 | arXiv 2026 | [TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models](https://arxiv.org/abs/2609.37989) | — |
 | arXiv 2026 | [TabFM: A Zero-Shot Foundation Model for Tabular Data](https://arxiv.org/abs/2609.37959) | [Code](https://github.com/google-research/tabfm) |
 | arXiv 2026 | [Causilo Technical Report](https://arxiv.org/abs/2609.22866) | [Code](https://github.com/nums-ai/causilo) |
@@ -288,6 +290,7 @@ The tabular foundation model technical reports.
 | KDD 2026               | [Node4All: Learning Node Representation Beyond Datasets](https://github.com/dooho00/node4all/blob/main/docs/node4all_kdd_2026.pdf) | [Code](https://github.com/dooho00/node4all)                  |
 | KDD 2026               | [One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets](https://arxiv.org/abs/2606.15752) | [Code](https://zenodo.org/records/20403804)                  |
 | KDD 2026               | [In-context Learning of Evolving Data Streams with Tabular Foundational Models](https://arxiv.org/abs/2502.16840) | —                                                            |
+| SIGIR 2026             | [RecPFN: Prior-Fitted Networks for In-Context-Based Recommendations](https://arxiv.org/abs/2608.19735) | [Code](https://github.com/SAP-samples/tabular-ai-recpfn)     |
 | arXiv 2026             | [TabPFN-3: Technical Report](https://arxiv.org/abs/2605.13986) | [Code](https://github.com/PriorLabs/TabPFN)                  |
 | arXiv 2026             | [OpenRFM: Dissecting Relational In-Context Learning](https://arxiv.org/abs/2606.04320) | —                                                            |
 | arXiv 2026             | [VIP-COP: Context Optimization for Tabular Foundation Models](https://arxiv.org/abs/2605.12904) | —                                                            |
