@@ -121,7 +121,7 @@ The tabular foundation model technical reports.
 | NeurIPS 2026 | [FlexTab: A Flexible Encoder-Decoder Architecture for In-Context Learning Across Diverse Tabular Tasks](https://arxiv.org/abs/2606.30336) | [Code](https://github.com/SAP-samples/flextab) |
 | NeurIPS 2026 | [RAD-TFM: Robust and Domain-Adapted Tabular Foundation Models](https://openreview.net/forum?id=6dfLwFHIwj) | — |
 | NeurIPS 2026 | [TabClustPFN: A Prior-Fitted Network for Tabular Data Clustering](https://arxiv.org/abs/2601.21656) | [Code](https://github.com/Tianqi-Zhao/TabClustPFN) |
-| NeurIPS 2026 | [Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424) | — |
+| NeurIPS 2026 | [Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424) | [Code](https://github.com/SilenceX12138/TabFORGE) |
 | NeurIPS 2026 | [Understanding the Surprising Generalization Properties of Tabular Foundation Models](https://arxiv.org/abs/2608.17957) | — |
 | NeurIPS 2026 | [When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models](https://openreview.net/forum?id=ixQvsT5Hku) | — |
 | arXiv 2026 | [TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models](https://arxiv.org/abs/2609.37989) | — |
@@ -173,8 +173,8 @@ The tabular foundation model technical reports.
 | NeurIPS 2026 | [TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders](https://arxiv.org/abs/2606.09323) | [Code](https://github.com/LOGO-CUHKSZ/TRL-Bench)             |
 | NeurIPS 2026 | [Beyond IID: How General Are Tabular Foundation Models, Really?](https://arxiv.org/abs/2606.30410) | [Code](https://github.com/TabArena/data-foundry)             |
 | NeurIPS 2026 | [Benchmarking Attention for Tabular Foundation Models](https://arxiv.org/abs/2609.31306) | [Code](https://github.com/SAP-samples/tabular-attention-benchmark) |
-| NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://doi.org/10.64898/2026.09.25.754520) | —                                                            |
-| NeurIPS 2026 | [TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning](https://openreview.net/forum?id=4WpEeaOeGW) | —                                                            |
+| NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://doi.org/10.64898/2026.09.25.754520) | [Code](https://github.com/ai4pm/Bridging-Ancestry-Gaps-in-Genomic-Risk-Prediction-with-Tabular-Foundation-Models) |
+| NeurIPS 2026 | [TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning](https://openreview.net/forum?id=4WpEeaOeGW) | [Code](https://huggingface.co/BenchmarkDatasets)             |
 | arXiv 2026   | [ScoringBench: A Benchmark for Evaluating Tabular Foundation Models with Proper Scoring Rules](https://arxiv.org/abs/2603.29928) | [Code](https://github.com/jonaslandsgesell/ScoringBench)     |
 | arXiv 2026   | [TabReliBench: Evaluating Tabular Foundation Models Beyond Predictive Accuracy](https://arxiv.org/abs/2610.13654) | [Code](https://github.com/Tianqi-Zhao/TabReliBench)     |
 | arXiv 2026   | [Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI](https://arxiv.org/abs/2608.16319) | [Code](https://github.com/PriorLabs/relarena)                |
@@ -246,7 +246,7 @@ The tabular foundation model technical reports.
 | :---- | :---- | :--- |
 | NeurIPS 2026 | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://arxiv.org/abs/2610.13334) | — |
 | NeurIPS 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code](https://github.com/rgklab/SurvivalPFN) |
-| NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://openreview.net/forum?id=3qspmxVnC1) | — |
+| NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://openreview.net/forum?id=3qspmxVnC1) | [Code](https://github.com/ai4pm/Bridging-Ancestry-Gaps-in-Genomic-Risk-Prediction-with-Tabular-Foundation-Models) |
 | FMSD @ ICML 2026 | [PerturbPFN: Probing the Limits of Synthetic Priors in Drug Perturbation Modelling](https://arxiv.org/abs/2607.23447) | — |
 | ICLR 2025              | [KinPFN: Bayesian Approximation of RNA Folding Kinetics using Prior-Data Fitted Networks](https://openreview.net/forum?id=E1m5yGMOiV) | [Code](https://github.com/automl/KinPFN)                     |
 | TCBBIO 2025            | [GPFN: Prior-Data Fitted Networks for Genomic Prediction](https://www.biorxiv.org/content/10.1101/2023.09.20.558648) | [Code](https://github.com/jubbens/gpfn)                      |
@@ -267,13 +267,13 @@ The tabular foundation model technical reports.
 | NeurIPS 2026 | [RAD-TFM: Robust and Domain-Adapted Tabular Foundation Models](https://openreview.net/forum?id=6dfLwFHIwj) | — |
 | NeurIPS 2026 | [SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference](https://arxiv.org/abs/2605.15488) | [Code](https://github.com/rgklab/SurvivalPFN) |
 | NeurIPS 2026 | [TabClustPFN: A Prior-Fitted Network for Tabular Data Clustering](https://arxiv.org/abs/2601.21656) | [Code](https://github.com/Tianqi-Zhao/TabClustPFN) |
-| NeurIPS 2026 | [TabK: Amortized Bayesian Estimation of the Number of Clusters in Tabular Data](https://openreview.net/forum?id=vH1EUKvrHt) | — |
-| NeurIPS 2026 | [Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424) | — |
+| NeurIPS 2026 | [TabK: Amortized Bayesian Estimation of the Number of Clusters in Tabular Data](https://openreview.net/forum?id=vH1EUKvrHt) | [Code](https://github.com/mrbakhtyari/TabK) |
+| NeurIPS 2026 | [Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424) | [Code](https://github.com/SilenceX12138/TabFORGE) |
 | NeurIPS 2026 | [TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502) | [Code](https://github.com/automl/TempoPFN) |
 | NeurIPS 2026 | [Thompson Sampling using Prior-fitted Diffusion Transformers](https://openreview.net/forum?id=hRNiI7uR2f) | — |
 | NeurIPS 2026 | [Understanding the Surprising Generalization Properties of Tabular Foundation Models](https://arxiv.org/abs/2608.17957) | — |
 | NeurIPS 2026 | [When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models](https://openreview.net/forum?id=ixQvsT5Hku) | — |
-| NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://openreview.net/forum?id=3qspmxVnC1) | — |
+| NeurIPS 2026 | [Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap](https://openreview.net/forum?id=3qspmxVnC1) | [Code](https://github.com/ai4pm/Bridging-Ancestry-Gaps-in-Genomic-Risk-Prediction-with-Tabular-Foundation-Models) |
 | arXiv 2026 | [Learning a Prior-Data Fitted Network for Graph Foundation Models via Structural Causal Model Priors](https://arxiv.org/abs/2610.38335) | [Code](https://anonymous.4open.science/r/GSCM-PFN-A3A3/) |
 | arXiv 2026 | [TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models](https://arxiv.org/abs/2609.37989) | — |
 | arXiv 2026 | [TabFM: A Zero-Shot Foundation Model for Tabular Data](https://arxiv.org/abs/2609.37959) | [Code](https://github.com/google-research/tabfm) |
